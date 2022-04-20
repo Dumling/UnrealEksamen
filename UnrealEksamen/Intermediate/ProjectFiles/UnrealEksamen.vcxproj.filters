@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnrealEksamen.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{907BC021-441D-48B3-9AB1-0F4C1D4AB009}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealEksamen.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealEksamenEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{57CDAAD7-8769-404A-8688-61C353B08A21}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UnrealEksamen">
+      <UniqueIdentifier>{2248A54F-0A41-43D9-8283-0159F88A3096}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealEksamen\EnemyClass.cpp">
+      <Filter>Source\UnrealEksamen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealEksamen\EnemyClass.h">
+      <Filter>Source\UnrealEksamen</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\UnrealEksamen\UnrealEksamen.Build.cs">
+      <Filter>Source\UnrealEksamen</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnrealEksamen\UnrealEksamen.cpp">
+      <Filter>Source\UnrealEksamen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealEksamen\UnrealEksamen.h">
+      <Filter>Source\UnrealEksamen</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+C:\Users\ikk-n\OneDrive\Dokumenter\GitHub\UnrealEksamen\UnrealEksamen\Intermediate\Build\Win64\UE4Editor\Development\UnrealEksamen\Definitions.UnrealEksamen.h
+C:\Users\ikk-n\OneDrive\Dokumenter\GitHub\UnrealEksamen\UnrealEksamen\Source\UnrealEksamen\UnrealEksamen.h

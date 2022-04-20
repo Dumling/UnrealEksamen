@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealEksamen",
+			"Path": "C:\\Users\\ikk-n\\OneDrive\\Dokumenter\\GitHub\\UnrealEksamen\\UnrealEksamen\\Source\\UnrealEksamen.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealEksamenEditor",
+			"Path": "C:\\Users\\ikk-n\\OneDrive\\Dokumenter\\GitHub\\UnrealEksamen\\UnrealEksamen\\Source\\UnrealEksamenEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
