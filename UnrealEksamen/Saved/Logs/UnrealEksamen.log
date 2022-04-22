@@ -1170,3 +1170,905 @@ Scale3D: 1.000000 1.000000 1.000000
 [2022.04.22-09.12.29:205][832]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/VehicleAdvExampleMapEF0E2BAE439017BBE75A428594F32A77.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
 [2022.04.22-09.12.29:240][832]AssetCheck: New page: Asset Save: VehicleAdvExampleMap
 [2022.04.22-09.12.29:240][832]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
+[2022.04.22-09.13.20:685][ 33]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/CarFunctions93F839EC4DEC2CF031BAF58553ACEADD.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleVarietyPack/CarFunctions.uasset'
+[2022.04.22-09.13.20:702][ 33]AssetCheck: New page: Asset Save: CarFunctions
+[2022.04.22-09.13.20:703][ 33]LogContentValidation: Display: Validating Blueprint /Game/VehicleVarietyPack/CarFunctions.CarFunctions
+[2022.04.22-09.13.36:006][862]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.22-09.13.36:139][862]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.22-09.13.36:139][862]LogAudioMixer: Display: 1: FrontRight
+[2022.04.22-09.35.23:945][863]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.22-09.35.24:084][863]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.22-09.35.24:084][863]LogAudioMixer: Display: 1: FrontRight
+[2022.04.22-09.35.43:150][ 33]LogHttp: Warning: 000001B6D5E50F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE074D691-4F9E-BC24-91C8-FD91A2BB1AD4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=951aeef841679fcd342fc08edaefd632%7C99ad3b9c58a64e50a94521d48699a062%7C51548a25-5abf-4b56-880c-449e5b392ee7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.22-09.35.43:151][ 33]LogHttp: Warning: 000001B6D5E50F00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.04.22-09.35.43:151][ 33]LogHttp: Warning: 000001B6D5E50F00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1b6e2d27eb0 [can pipeline])
+[2022.04.22-09.35.43:151][ 33]LogHttp: Warning: 000001B6D5E50F00: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.04.22-09.35.43:151][ 33]LogHttp: Warning: 000001B6D5E50F00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.235.21.73) port 443 (#0))
+[2022.04.22-09.35.43:151][ 33]LogHttp: Warning: 000001B6D5E50F00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.04.22-09.35.43:151][ 33]LogHttp: Warning: 000001B6D5E50F00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.04.22-09.35.43:151][ 33]LogHttp: Warning: 000001B6D5E50F00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.04.22-09.35.43:151][ 33]LogHttp: Warning: 000001B6D5E50F00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.04.22-09.35.43:151][ 33]LogHttp: Warning: 000001B6D5E50F00: libcurl info message cache 7 (Closing connection 0)
+[2022.04.22-09.35.43:167][ 34]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE074D691-4F9E-BC24-91C8-FD91A2BB1AD4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=951aeef841679fcd342fc08edaefd632%7C99ad3b9c58a64e50a94521d48699a062%7C51548a25-5abf-4b56-880c-449e5b392ee7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.22-09.38.44:066][518]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.22-09.38.44:086][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.22-09.38.44:086][518]PIE: New page: PIE session: VehicleAdvExampleMap (22. apr. 2022 13.38.44)
+[2022.04.22-09.38.44:086][518]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.22-09.38.44:130][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043414s)
+[2022.04.22-09.38.44:132][518]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2022.04.22-09.38.44:133][518]LogPlayLevel: PIE: World Init took: (0.002804s)
+[2022.04.22-09.38.44:133][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.046551s)
+[2022.04.22-09.38.44:181][518]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.04.22-09.38.44:182][518]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.04.22-09.38.44:182][518]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.22-09.38.44:182][518]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.22-09.38.44:182][518]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.22-09.38.44:182][518]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.22-09.38.44:182][518]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.22-09.38.44:182][518]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.22-09.38.44:182][518]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.22-09.38.44:182][518]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.22-09.38.44:183][518]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.22-09.38.44:183][518]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.22-09.38.44:183][518]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.22-09.38.44:183][518]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.22-09.38.44:190][518]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.22-09.38.44:190][518]LogAudioMixer: Display: 1: FrontRight
+[2022.04.22-09.38.44:306][518]LogAudioMixer: Display: Using Audio Device Højttalere (Realtek(R) Audio)
+[2022.04.22-09.38.44:307][518]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.22-09.38.44:308][518]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.22-09.38.44:308][518]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.22-09.38.44:308][518]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.22-09.38.44:308][518]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.22-09.38.44:308][518]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.22-09.38.44:310][518]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.22-09.38.44:310][518]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.22-09.38.44:310][518]LogInit: FAudioDevice initialized.
+[2022.04.22-09.38.44:310][518]LogAudio: Display: Audio Device (ID: 5) registered with world 'VehicleAdvExampleMap'.
+[2022.04.22-09.38.44:324][518]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2022.04.22-09.38.44:338][518]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2022.04.22-11.38.44
+[2022.04.22-09.38.44:339][518]LogWorld: Bringing up level for play took: 0.008641
+[2022.04.22-09.38.44:339][518]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.04.22-09.38.44:344][518]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10050.000 Y=15970.000 Z=160.000] for [CarSelect_C]
+[2022.04.22-09.38.44:345][518]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type CarSelect_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -10050.000000 15970.000000 160.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.04.22-09.38.44:348][518]PIE: Server logged in
+[2022.04.22-09.38.44:349][518]PIE: Play in editor total start time 0,275 seconds.
+[2022.04.22-09.38.47:480][592]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2022.04.22-09.38.49:881][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.22-09.38.49:881][651]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.22-09.38.49:881][651]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-09.38.49:883][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-09.38.49:896][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.22-09.38.49:910][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-09.38.49:943][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.22-09.38.49:944][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.22-09.38.49:945][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.22-09.38.49:954][651]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.04.22-09.38.49:990][652]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.04.22-09.39.23:932][608]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.22-09.39.23:947][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.22-09.39.23:948][608]PIE: New page: PIE session: VehicleAdvExampleMap (22. apr. 2022 13.39.23)
+[2022.04.22-09.39.23:948][608]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.22-09.39.23:984][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036912s)
+[2022.04.22-09.39.23:985][608]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2022.04.22-09.39.23:985][608]LogPlayLevel: PIE: World Init took: (0.001327s)
+[2022.04.22-09.39.23:985][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.038473s)
+[2022.04.22-09.39.24:022][608]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.04.22-09.39.24:022][608]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.04.22-09.39.24:022][608]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.22-09.39.24:023][608]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.22-09.39.24:023][608]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.22-09.39.24:023][608]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.22-09.39.24:023][608]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.22-09.39.24:023][608]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.22-09.39.24:023][608]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.22-09.39.24:023][608]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.22-09.39.24:023][608]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.22-09.39.24:023][608]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.22-09.39.24:023][608]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.22-09.39.24:023][608]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.22-09.39.24:029][608]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.22-09.39.24:029][608]LogAudioMixer: Display: 1: FrontRight
+[2022.04.22-09.39.24:132][608]LogAudioMixer: Display: Using Audio Device Højttalere (Realtek(R) Audio)
+[2022.04.22-09.39.24:132][608]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.22-09.39.24:133][608]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.22-09.39.24:133][608]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.22-09.39.24:133][608]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.22-09.39.24:133][608]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.22-09.39.24:133][608]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.22-09.39.24:135][608]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.22-09.39.24:135][608]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.22-09.39.24:135][608]LogInit: FAudioDevice initialized.
+[2022.04.22-09.39.24:135][608]LogAudio: Display: Audio Device (ID: 6) registered with world 'VehicleAdvExampleMap'.
+[2022.04.22-09.39.24:148][608]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2022.04.22-09.39.24:159][608]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2022.04.22-11.39.24
+[2022.04.22-09.39.24:160][608]LogWorld: Bringing up level for play took: 0.008349
+[2022.04.22-09.39.24:160][608]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.04.22-09.39.24:165][608]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5140.000 Y=7290.000 Z=160.000] for [CarSelect_C]
+[2022.04.22-09.39.24:165][608]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type CarSelect_C at Rotation: Pitch 0.000000 Yaw -179.999954 Roll 0.000000
+Translation: -5140.000000 7290.000000 160.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.04.22-09.39.24:168][608]PIE: Server logged in
+[2022.04.22-09.39.24:169][608]PIE: Play in editor total start time 0,231 seconds.
+[2022.04.22-09.39.36:971][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.22-09.39.36:971][920]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.22-09.39.36:971][920]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-09.39.36:973][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-09.39.36:990][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.22-09.39.37:003][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-09.39.37:036][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.22-09.39.37:037][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.22-09.39.37:038][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.22-09.39.37:046][920]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.04.22-09.39.37:085][921]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.04.22-09.41.14:568][324]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-09.41.14:644][324]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2022.04.22-09.41.22:464][779]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-09.41.22:538][779]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2022.04.22-09.41.28:170][ 73]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.22-09.41.28:186][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.22-09.41.28:186][ 73]PIE: New page: PIE session: VehicleAdvExampleMap (22. apr. 2022 13.41.28)
+[2022.04.22-09.41.28:186][ 73]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.22-09.41.28:222][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035793s)
+[2022.04.22-09.41.28:224][ 73]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2022.04.22-09.41.28:224][ 73]LogPlayLevel: PIE: World Init took: (0.001615s)
+[2022.04.22-09.41.28:224][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.037615s)
+[2022.04.22-09.41.28:261][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2022.04.22-09.41.28:262][ 73]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.04.22-09.41.28:262][ 73]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.22-09.41.28:262][ 73]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.22-09.41.28:262][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.22-09.41.28:262][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.22-09.41.28:262][ 73]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.22-09.41.28:262][ 73]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.22-09.41.28:262][ 73]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.22-09.41.28:262][ 73]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.22-09.41.28:262][ 73]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.22-09.41.28:262][ 73]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.22-09.41.28:262][ 73]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.22-09.41.28:262][ 73]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.22-09.41.28:269][ 73]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.22-09.41.28:269][ 73]LogAudioMixer: Display: 1: FrontRight
+[2022.04.22-09.41.28:412][ 73]LogAudioMixer: Display: Using Audio Device Højttalere (Realtek(R) Audio)
+[2022.04.22-09.41.28:412][ 73]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.22-09.41.28:412][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.22-09.41.28:412][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.22-09.41.28:413][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.22-09.41.28:413][ 73]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.22-09.41.28:413][ 73]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.22-09.41.28:414][ 73]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.22-09.41.28:414][ 73]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.22-09.41.28:414][ 73]LogInit: FAudioDevice initialized.
+[2022.04.22-09.41.28:415][ 73]LogAudio: Display: Audio Device (ID: 7) registered with world 'VehicleAdvExampleMap'.
+[2022.04.22-09.41.28:422][ 73]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2022.04.22-09.41.28:431][ 73]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2022.04.22-11.41.28
+[2022.04.22-09.41.28:432][ 73]LogWorld: Bringing up level for play took: 0.006279
+[2022.04.22-09.41.28:432][ 73]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.04.22-09.41.28:435][ 73]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5140.000 Y=15970.000 Z=160.000] for [CarSelect_C]
+[2022.04.22-09.41.28:435][ 73]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type CarSelect_C at Rotation: Pitch 0.000000 Yaw -179.999954 Roll 0.000000
+Translation: -5140.000000 15970.000000 160.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.04.22-09.41.28:438][ 73]PIE: Server logged in
+[2022.04.22-09.41.28:439][ 73]PIE: Play in editor total start time 0,262 seconds.
+[2022.04.22-09.41.36:792][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.22-09.41.36:792][277]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.22-09.41.36:792][277]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-09.41.36:794][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-09.41.36:822][277]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.22-09.41.36:836][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-09.41.36:870][277]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.22-09.41.36:870][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.22-09.41.36:872][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.22-09.41.36:875][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.22-09.41.36:881][277]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2022.04.22-09.41.36:922][278]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.04.22-09.42.21:238][641]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.04.22-09.42.21:429][641]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/VehicleAdvExampleMap_Auto12FAEE8BD474ED41344CBFBA0CAC61DE1.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto1.umap'
+[2022.04.22-09.42.21:432][641]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.226
+[2022.04.22-09.42.21:432][641]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.226
+[2022.04.22-09.43.06:631][109]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/PauseMenu.PauseMenu
+[2022.04.22-09.44.50:825][221]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.22-09.45.57:595][ 79]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.04.22-09.46.21:273][382]BlueprintLog: New page: Compile PauseMenu
+[2022.04.22-09.46.21:449][382]LogUObjectHash: Compacting FUObjectHashTables data took   7.56ms
+[2022.04.22-09.47.07:647][ 75]BlueprintLog: New page: Compile PauseMenu
+[2022.04.22-09.47.07:717][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2022.04.22-09.47.08:616][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenu" FILE="../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/UI/PauseMenu.uasset" SILENT=true
+[2022.04.22-09.47.08:655][124]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/PauseMenu60BE9B3642832E41512ECDB912B73A95.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/UI/PauseMenu.uasset'
+[2022.04.22-09.47.08:685][124]AssetCheck: New page: Asset Save: PauseMenu
+[2022.04.22-09.47.08:686][124]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PauseMenu.PauseMenu
+[2022.04.22-09.47.33:326][589]BlueprintLog: New page: Compile PauseMenu
+[2022.04.22-09.47.33:403][589]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2022.04.22-09.49.57:244][854]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-09.49.57:259][854]LogBlueprint: Error: [AssetLog] C:\Users\Fredrik\source\repos\Space Shooter\UnrealEksamen\UnrealEksamen\Content\VehicleAdvBP\Maps\VehicleAdvExampleMap.umap: [Compiler] PossesCarMenu  : unable to determine expected signature - is the delegate pin connected?
+[2022.04.22-09.49.57:260][854]LogBlueprint: Error: [AssetLog] C:\Users\Fredrik\source\repos\Space Shooter\UnrealEksamen\UnrealEksamen\Content\VehicleAdvBP\Maps\VehicleAdvExampleMap.umap: [Compiler] Could not find an event-dispatcher named "PossesCarMenu" in 'PauseMenu_C'.
+Make sure 'PauseMenu_C' has been compiled for  Bind Event to Posses Car Menu
+[2022.04.22-09.49.57:263][854]LogBlueprint: Error: [AssetLog] C:\Users\Fredrik\source\repos\Space Shooter\UnrealEksamen\UnrealEksamen\Content\VehicleAdvBP\Maps\VehicleAdvExampleMap.umap: [Compiler] Failed to create property K2Node_CreateDelegate_OutputDelegate_1 from  <None>  due to a bad or unknown type (Delegate)
+[2022.04.22-09.49.57:266][854]LogBlueprint: Error: [AssetLog] C:\Users\Fredrik\source\repos\Space Shooter\UnrealEksamen\UnrealEksamen\Content\VehicleAdvBP\Maps\VehicleAdvExampleMap.umap: [Compiler] PossesCarMenu  Signature Error: Unable to determine expected signature - is the delegate pin connected?
+[2022.04.22-09.49.57:378][854]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2022.04.22-09.50.26:556][586]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-09.50.26:567][586]LogBlueprint: Error: [AssetLog] C:\Users\Fredrik\source\repos\Space Shooter\UnrealEksamen\UnrealEksamen\Content\VehicleAdvBP\Maps\VehicleAdvExampleMap.umap: [Compiler] PossesCarMenuEvent  : unable to determine expected signature - is the delegate pin connected?
+[2022.04.22-09.50.26:567][586]LogBlueprint: Error: [AssetLog] C:\Users\Fredrik\source\repos\Space Shooter\UnrealEksamen\UnrealEksamen\Content\VehicleAdvBP\Maps\VehicleAdvExampleMap.umap: [Compiler] Could not find an event-dispatcher named "PossesCarMenu" in 'PauseMenu_C'.
+Make sure 'PauseMenu_C' has been compiled for  Bind Event to Posses Car Menu
+[2022.04.22-09.50.26:568][586]LogBlueprint: Error: [AssetLog] C:\Users\Fredrik\source\repos\Space Shooter\UnrealEksamen\UnrealEksamen\Content\VehicleAdvBP\Maps\VehicleAdvExampleMap.umap: [Compiler] Failed to create property K2Node_CreateDelegate_OutputDelegate_1 from  <None>  due to a bad or unknown type (Delegate)
+[2022.04.22-09.50.26:569][586]LogBlueprint: Error: [AssetLog] C:\Users\Fredrik\source\repos\Space Shooter\UnrealEksamen\UnrealEksamen\Content\VehicleAdvBP\Maps\VehicleAdvExampleMap.umap: [Compiler] PossesCarMenuEvent  Signature Error: Unable to determine expected signature - is the delegate pin connected?
+[2022.04.22-09.50.26:653][586]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2022.04.22-09.50.37:687][235]BlueprintLog: New page: Compile PauseMenu
+[2022.04.22-09.50.37:752][235]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2022.04.22-09.50.40:069][333]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-09.50.40:163][333]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2022.04.22-09.50.42:616][438]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.22-09.50.42:636][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.22-09.50.42:636][438]PIE: New page: PIE session: VehicleAdvExampleMap (22. apr. 2022 13.50.42)
+[2022.04.22-09.50.42:637][438]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.22-09.50.42:680][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042239s)
+[2022.04.22-09.50.42:681][438]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2022.04.22-09.50.42:681][438]LogPlayLevel: PIE: World Init took: (0.001686s)
+[2022.04.22-09.50.42:681][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.044153s)
+[2022.04.22-09.50.42:734][438]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2022.04.22-09.50.42:736][438]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.04.22-09.50.42:736][438]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.22-09.50.42:736][438]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.22-09.50.42:736][438]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.22-09.50.42:736][438]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.22-09.50.42:736][438]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.22-09.50.42:736][438]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.22-09.50.42:736][438]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.22-09.50.42:736][438]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.22-09.50.42:737][438]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.22-09.50.42:737][438]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.22-09.50.42:737][438]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.22-09.50.42:737][438]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.22-09.50.42:745][438]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.22-09.50.42:745][438]LogAudioMixer: Display: 1: FrontRight
+[2022.04.22-09.50.42:877][438]LogAudioMixer: Display: Using Audio Device Højttalere (Realtek(R) Audio)
+[2022.04.22-09.50.42:877][438]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.22-09.50.42:877][438]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.22-09.50.42:877][438]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.22-09.50.42:878][438]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.22-09.50.42:878][438]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.22-09.50.42:878][438]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.22-09.50.42:880][438]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.22-09.50.42:880][438]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.22-09.50.42:880][438]LogInit: FAudioDevice initialized.
+[2022.04.22-09.50.42:880][438]LogAudio: Display: Audio Device (ID: 8) registered with world 'VehicleAdvExampleMap'.
+[2022.04.22-09.50.42:892][438]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2022.04.22-09.50.42:905][438]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2022.04.22-11.50.42
+[2022.04.22-09.50.42:906][438]LogWorld: Bringing up level for play took: 0.007567
+[2022.04.22-09.50.42:906][438]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.04.22-09.50.42:910][438]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10050.000 Y=15970.000 Z=160.000] for [CarSelect_C]
+[2022.04.22-09.50.42:910][438]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type CarSelect_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -10050.000000 15970.000000 160.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.04.22-09.50.42:913][438]PIE: Server logged in
+[2022.04.22-09.50.42:914][438]PIE: Play in editor total start time 0,29 seconds.
+[2022.04.22-09.50.45:478][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.22-09.50.45:478][469]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.22-09.50.45:478][469]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-09.50.45:491][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-09.50.45:537][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.22-09.50.45:556][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-09.50.45:612][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.22-09.50.45:614][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.22-09.50.45:615][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.22-09.50.45:628][469]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2022.04.22-09.50.45:677][470]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.04.22-09.50.47:140][499]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.22-09.50.47:167][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.22-09.50.47:168][499]PIE: New page: PIE session: VehicleAdvExampleMap (22. apr. 2022 13.50.47)
+[2022.04.22-09.50.47:168][499]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.22-09.50.47:228][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060281s)
+[2022.04.22-09.50.47:230][499]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2022.04.22-09.50.47:230][499]LogPlayLevel: PIE: World Init took: (0.002394s)
+[2022.04.22-09.50.47:230][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.062991s)
+[2022.04.22-09.50.47:297][499]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2022.04.22-09.50.47:298][499]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.04.22-09.50.47:298][499]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.22-09.50.47:298][499]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.22-09.50.47:298][499]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.22-09.50.47:298][499]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.22-09.50.47:298][499]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.22-09.50.47:298][499]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.22-09.50.47:298][499]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.22-09.50.47:298][499]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.22-09.50.47:299][499]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.22-09.50.47:299][499]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.22-09.50.47:299][499]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.22-09.50.47:299][499]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.22-09.50.47:307][499]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.22-09.50.47:307][499]LogAudioMixer: Display: 1: FrontRight
+[2022.04.22-09.50.47:442][499]LogAudioMixer: Display: Using Audio Device Højttalere (Realtek(R) Audio)
+[2022.04.22-09.50.47:443][499]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.22-09.50.47:443][499]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.22-09.50.47:443][499]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.22-09.50.47:445][499]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.22-09.50.47:445][499]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.22-09.50.47:445][499]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.22-09.50.47:446][499]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.22-09.50.47:447][499]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.22-09.50.47:447][499]LogInit: FAudioDevice initialized.
+[2022.04.22-09.50.47:447][499]LogAudio: Display: Audio Device (ID: 9) registered with world 'VehicleAdvExampleMap'.
+[2022.04.22-09.50.47:459][499]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2022.04.22-09.50.47:473][499]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2022.04.22-11.50.47
+[2022.04.22-09.50.47:474][499]LogWorld: Bringing up level for play took: 0.009201
+[2022.04.22-09.50.47:474][499]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.04.22-09.50.47:479][499]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5140.000 Y=15970.000 Z=160.000] for [CarSelect_C]
+[2022.04.22-09.50.47:479][499]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type CarSelect_C at Rotation: Pitch 0.000000 Yaw -179.999954 Roll 0.000000
+Translation: -5140.000000 15970.000000 160.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.04.22-09.50.47:483][499]PIE: Server logged in
+[2022.04.22-09.50.47:484][499]PIE: Play in editor total start time 0,332 seconds.
+[2022.04.22-09.50.54:961][676]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2022.04.22-09.50.59:015][774]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2022.04.22-09.51.00:867][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.22-09.51.00:867][817]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.22-09.51.00:868][817]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-09.51.00:871][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-09.51.00:890][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.22-09.51.00:918][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-09.51.00:996][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.22-09.51.00:999][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.22-09.51.01:001][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.22-09.51.01:018][817]LogUObjectHash: Compacting FUObjectHashTables data took   7.81ms
+[2022.04.22-09.51.01:088][818]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.04.22-09.52.00:659][209]BlueprintLog: New page: Compile PauseMenu
+[2022.04.22-09.52.00:727][209]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2022.04.22-09.52.22:617][397]BlueprintLog: New page: Compile PauseMenu
+[2022.04.22-09.52.22:671][397]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2022.04.22-09.52.26:712][544]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.22-09.52.26:731][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.22-09.52.26:731][544]PIE: New page: PIE session: VehicleAdvExampleMap (22. apr. 2022 13.52.26)
+[2022.04.22-09.52.26:731][544]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.22-09.52.26:769][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038096s)
+[2022.04.22-09.52.26:770][544]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2022.04.22-09.52.26:770][544]LogPlayLevel: PIE: World Init took: (0.001566s)
+[2022.04.22-09.52.26:771][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.039899s)
+[2022.04.22-09.52.26:823][544]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2022.04.22-09.52.26:825][544]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.04.22-09.52.26:825][544]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.22-09.52.26:825][544]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.22-09.52.26:825][544]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.22-09.52.26:825][544]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.22-09.52.26:825][544]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.22-09.52.26:825][544]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.22-09.52.26:825][544]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.22-09.52.26:825][544]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.22-09.52.26:825][544]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.22-09.52.26:825][544]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.22-09.52.26:825][544]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.22-09.52.26:825][544]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.22-09.52.26:832][544]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.22-09.52.26:832][544]LogAudioMixer: Display: 1: FrontRight
+[2022.04.22-09.52.26:969][544]LogAudioMixer: Display: Using Audio Device Højttalere (Realtek(R) Audio)
+[2022.04.22-09.52.26:969][544]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.22-09.52.26:969][544]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.22-09.52.26:969][544]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.22-09.52.26:970][544]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.22-09.52.26:970][544]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.22-09.52.26:970][544]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.22-09.52.26:971][544]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.22-09.52.26:971][544]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.22-09.52.26:971][544]LogInit: FAudioDevice initialized.
+[2022.04.22-09.52.26:971][544]LogAudio: Display: Audio Device (ID: 10) registered with world 'VehicleAdvExampleMap'.
+[2022.04.22-09.52.26:978][544]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2022.04.22-09.52.26:990][544]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2022.04.22-11.52.26
+[2022.04.22-09.52.26:991][544]LogWorld: Bringing up level for play took: 0.007427
+[2022.04.22-09.52.26:991][544]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.04.22-09.52.26:995][544]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5140.000 Y=7290.000 Z=160.000] for [CarSelect_C]
+[2022.04.22-09.52.26:996][544]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type CarSelect_C at Rotation: Pitch 0.000000 Yaw -179.999954 Roll 0.000000
+Translation: -5140.000000 7290.000000 160.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.04.22-09.52.26:999][544]PIE: Server logged in
+[2022.04.22-09.52.27:000][544]PIE: Play in editor total start time 0,281 seconds.
+[2022.04.22-09.52.32:398][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.22-09.52.32:398][668]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.22-09.52.32:399][668]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-09.52.32:403][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-09.52.32:418][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.22-09.52.32:440][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-09.52.32:502][668]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.22-09.52.32:503][668]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.22-09.52.32:505][668]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.22-09.52.32:511][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.22-09.52.32:524][668]LogUObjectHash: Compacting FUObjectHashTables data took   8.22ms
+[2022.04.22-09.52.32:596][669]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.04.22-09.52.54:884][874]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2022.04.22-09.52.54:884][874]LogBlueprint: Error: [AssetLog]  (no disk path found): [Compiler] There can only be one event node bound to this component! Delete  On Clicked (CarSelect)  or the other bound event
+[2022.04.22-09.52.54:884][874]BlueprintLog: New page: Rename Component Error
+[2022.04.22-09.52.54:884][874]BlueprintLog: Error: There can only be one event node bound to this component! Delete  On Clicked (CarSelect)  or the other bound event
+[2022.04.22-09.53.08:641][674]BlueprintLog: New page: Compile PauseMenu
+[2022.04.22-09.53.08:705][674]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2022.04.22-09.53.23:392][528]BlueprintLog: New page: Compile PauseMenu
+[2022.04.22-09.53.23:447][528]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2022.04.22-09.54.24:244][792]BlueprintLog: New page: Compile PauseMenu
+[2022.04.22-09.54.24:306][792]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2022.04.22-09.55.13:332][616]BlueprintLog: New page: Compile PauseMenu
+[2022.04.22-09.55.13:391][616]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2022.04.22-09.55.15:312][722]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2022.04.22-09.55.15:568][722]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/VehicleAdvExampleMap_Auto2F08115F84CC79D31E5ECF984EE0F8B45.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto2.umap'
+[2022.04.22-09.55.15:571][722]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.306
+[2022.04.22-09.55.15:571][722]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.306
+[2022.04.22-09.55.15:573][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/PauseMenu] ([2] browsable assets)...
+[2022.04.22-09.55.15:573][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/PauseMenu]
+[2022.04.22-09.55.15:629][722]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/PauseMenu_Auto2ACBDB4B94A41E451F0CF11B9C24404C4.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/Autosaves/Game/UI/PauseMenu_Auto2.uasset'
+[2022.04.22-09.55.15:631][722]LogFileHelpers: Auto-saving content packages took 0.060
+[2022.04.22-09.58.19:063][669]BlueprintLog: New page: Compile PauseMenu
+[2022.04.22-09.58.19:121][669]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2022.04.22-09.58.36:113][683]BlueprintLog: New page: Compile PauseMenu
+[2022.04.22-09.58.36:169][683]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2022.04.22-09.58.40:563][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenu" FILE="../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/UI/PauseMenu.uasset" SILENT=true
+[2022.04.22-09.58.40:602][936]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/PauseMenuAC0F1F874C52713EC38B4185066DA297.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/UI/PauseMenu.uasset'
+[2022.04.22-09.58.40:634][936]AssetCheck: New page: Asset Save: PauseMenu
+[2022.04.22-09.58.40:634][936]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PauseMenu.PauseMenu
+[2022.04.22-09.58.41:893][  7]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-09.58.41:893][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-09.58.41:909][  7]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-09.58.41:909][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-10.04.15:232][512]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-10.04.15:347][512]LogUObjectHash: Compacting FUObjectHashTables data took   7.77ms
+[2022.04.22-10.05.39:228][512]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-10.05.39:349][512]LogUObjectHash: Compacting FUObjectHashTables data took  14.19ms
+[2022.04.22-10.05.57:656][599]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-10.05.57:750][599]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2022.04.22-10.06.00:549][758]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2022.04.22-10.06.00:787][758]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/VehicleAdvExampleMap97DA753446E09723A99D9BBB75792BFE.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2022.04.22-10.06.00:845][758]LogFileHelpers: Saving map 'VehicleAdvExampleMap' took 0.369
+[2022.04.22-10.06.00:879][758]AssetCheck: New page: Asset Save: VehicleAdvExampleMap
+[2022.04.22-10.06.00:879][758]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
+[2022.04.22-10.06.48:064][572]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-10.06.48:167][572]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2022.04.22-10.07.10:524][892]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-10.07.10:613][892]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2022.04.22-10.07.12:494][997]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2022.04.22-10.07.12:726][997]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/VehicleAdvExampleMap0802FD17478EA8597E840B8E3C959669.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2022.04.22-10.07.12:734][997]LogFileHelpers: Saving map 'VehicleAdvExampleMap' took 0.283
+[2022.04.22-10.07.12:751][997]AssetCheck: New page: Asset Save: VehicleAdvExampleMap
+[2022.04.22-10.07.12:752][997]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
+[2022.04.22-10.07.36:352][390]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-10.07.36:439][390]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2022.04.22-10.08.05:006][855]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleVarietyPack/MFireWeapons.MFireWeapons
+[2022.04.22-10.08.49:742][880]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-10.08.49:743][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-10.10.58:001][475]LogEditorTransaction: Undo Add Node
+[2022.04.22-10.11.29:974][350]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-10.11.30:096][350]LogUObjectHash: Compacting FUObjectHashTables data took   8.45ms
+[2022.04.22-10.12.29:447][815]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-10.12.29:541][815]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2022.04.22-10.13.58:804][153]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-10.13.58:900][153]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2022.04.22-10.14.42:352][687]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-10.14.42:444][687]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2022.04.22-10.14.44:081][746]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.22-10.14.44:103][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.22-10.14.44:103][746]PIE: New page: PIE session: VehicleAdvExampleMap (22. apr. 2022 14.14.44)
+[2022.04.22-10.14.44:108][746]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.22-10.14.44:201][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092445s)
+[2022.04.22-10.14.44:205][746]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2022.04.22-10.14.44:215][746]LogPlayLevel: PIE: World Init took: (0.013017s)
+[2022.04.22-10.14.44:215][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.106299s)
+[2022.04.22-10.14.44:259][746]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2022.04.22-10.14.44:267][746]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.04.22-10.14.44:269][746]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.22-10.14.44:269][746]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.22-10.14.44:269][746]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.22-10.14.44:269][746]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.22-10.14.44:269][746]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.22-10.14.44:269][746]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.22-10.14.44:269][746]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.22-10.14.44:270][746]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.22-10.14.44:274][746]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.22-10.14.44:274][746]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.22-10.14.44:274][746]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.22-10.14.44:274][746]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.22-10.14.44:293][746]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.22-10.14.44:293][746]LogAudioMixer: Display: 1: FrontRight
+[2022.04.22-10.14.44:422][746]LogAudioMixer: Display: Using Audio Device Højttalere (Realtek(R) Audio)
+[2022.04.22-10.14.44:423][746]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.22-10.14.44:423][746]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.22-10.14.44:423][746]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.22-10.14.44:425][746]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.22-10.14.44:425][746]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.22-10.14.44:425][746]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.22-10.14.44:428][746]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.22-10.14.44:428][746]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.22-10.14.44:428][746]LogInit: FAudioDevice initialized.
+[2022.04.22-10.14.44:429][746]LogAudio: Display: Audio Device (ID: 11) registered with world 'VehicleAdvExampleMap'.
+[2022.04.22-10.14.44:453][746]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2022.04.22-10.14.44:534][746]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2022.04.22-12.14.44
+[2022.04.22-10.14.44:549][746]LogWorld: Bringing up level for play took: 0.084599
+[2022.04.22-10.14.44:558][746]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.04.22-10.14.44:593][746]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10050.000 Y=15970.000 Z=160.000] for [CarSelect_C]
+[2022.04.22-10.14.44:594][746]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type CarSelect_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -10050.000000 15970.000000 160.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.04.22-10.14.44:609][746]PIE: Server logged in
+[2022.04.22-10.14.44:611][746]PIE: Play in editor total start time 0,522 seconds.
+[2022.04.22-10.14.53:555][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.22-10.14.53:555][914]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.22-10.14.53:558][914]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-10.14.53:563][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-10.14.53:586][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.22-10.14.53:614][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-10.14.53:687][914]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.22-10.14.53:689][914]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.22-10.14.53:717][914]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.22-10.14.53:723][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.22-10.14.53:749][914]LogUObjectHash: Compacting FUObjectHashTables data took   8.10ms
+[2022.04.22-10.14.53:816][915]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.04.22-10.15.26:379][784]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2022.04.22-10.15.26:617][784]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/VehicleAdvExampleMap1BBED66A40CD49372ECD36B7D78F3132.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2022.04.22-10.15.26:623][784]LogFileHelpers: Saving map 'VehicleAdvExampleMap' took 0.294
+[2022.04.22-10.15.26:651][784]AssetCheck: New page: Asset Save: VehicleAdvExampleMap
+[2022.04.22-10.15.26:651][784]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
+[2022.04.22-10.17.57:563][547]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-10.17.57:662][547]LogUObjectHash: Compacting FUObjectHashTables data took   6.95ms
+[2022.04.22-10.19.16:387][147]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-10.19.16:483][147]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2022.04.22-10.19.54:090][336]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-10.19.54:182][336]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2022.04.22-10.19.56:786][416]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.22-10.19.56:802][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.22-10.19.56:802][416]PIE: New page: PIE session: VehicleAdvExampleMap (22. apr. 2022 14.19.56)
+[2022.04.22-10.19.56:802][416]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.22-10.19.56:841][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038944s)
+[2022.04.22-10.19.56:842][416]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2022.04.22-10.19.56:843][416]LogPlayLevel: PIE: World Init took: (0.001570s)
+[2022.04.22-10.19.56:843][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.040751s)
+[2022.04.22-10.19.56:888][416]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2022.04.22-10.19.56:892][416]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.04.22-10.19.56:893][416]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.22-10.19.56:893][416]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.22-10.19.56:893][416]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.22-10.19.56:893][416]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.22-10.19.56:893][416]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.22-10.19.56:893][416]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.22-10.19.56:893][416]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.22-10.19.56:893][416]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.22-10.19.56:894][416]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.22-10.19.56:894][416]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.22-10.19.56:894][416]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.22-10.19.56:894][416]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.22-10.19.56:902][416]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.22-10.19.56:902][416]LogAudioMixer: Display: 1: FrontRight
+[2022.04.22-10.19.57:028][416]LogAudioMixer: Display: Using Audio Device Højttalere (Realtek(R) Audio)
+[2022.04.22-10.19.57:028][416]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.22-10.19.57:028][416]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.22-10.19.57:028][416]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.22-10.19.57:029][416]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.22-10.19.57:029][416]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.22-10.19.57:029][416]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.22-10.19.57:031][416]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.22-10.19.57:031][416]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.22-10.19.57:031][416]LogInit: FAudioDevice initialized.
+[2022.04.22-10.19.57:031][416]LogAudio: Display: Audio Device (ID: 12) registered with world 'VehicleAdvExampleMap'.
+[2022.04.22-10.19.57:060][416]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2022.04.22-10.19.57:070][416]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2022.04.22-12.19.57
+[2022.04.22-10.19.57:070][416]LogWorld: Bringing up level for play took: 0.006355
+[2022.04.22-10.19.57:070][416]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.04.22-10.19.57:078][416]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5140.000 Y=7290.000 Z=160.000] for [CarSelect_C]
+[2022.04.22-10.19.57:078][416]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type CarSelect_C at Rotation: Pitch 0.000000 Yaw -179.999954 Roll 0.000000
+Translation: -5140.000000 7290.000000 160.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.04.22-10.19.57:081][416]PIE: Server logged in
+[2022.04.22-10.19.57:082][416]PIE: Play in editor total start time 0,289 seconds.
+[2022.04.22-10.20.25:884][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.22-10.20.25:884][ 47]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.22-10.20.25:886][ 47]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-10.20.25:889][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-10.20.25:967][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.22-10.20.25:991][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-10.20.26:061][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.22-10.20.26:062][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.22-10.20.26:064][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.22-10.20.26:084][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   9.75ms
+[2022.04.22-10.20.26:158][ 48]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.04.22-10.20.28:646][154]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/CarFunctionsAACD6D0944C8FD32FF68F68AF60A254E.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleVarietyPack/CarFunctions.uasset'
+[2022.04.22-10.20.28:666][154]AssetCheck: New page: Asset Save: CarFunctions
+[2022.04.22-10.20.28:666][154]LogContentValidation: Display: Validating Blueprint /Game/VehicleVarietyPack/CarFunctions.CarFunctions
+[2022.04.22-10.20.29:917][225]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2022.04.22-10.20.30:144][225]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/VehicleAdvExampleMapC3AB877B4A9794744356DB9DB5081A7F.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2022.04.22-10.20.30:152][225]LogFileHelpers: Saving map 'VehicleAdvExampleMap' took 0.282
+[2022.04.22-10.20.30:178][225]AssetCheck: New page: Asset Save: VehicleAdvExampleMap
+[2022.04.22-10.20.30:178][225]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
+[2022.04.22-10.20.50:179][391]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-10.20.50:295][391]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2022.04.22-10.22.01:336][491]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck.BP_BoxTruck
+[2022.04.22-10.22.04:734][558]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.04.22-10.22.05:594][599]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.04.22-10.22.09:769][754]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.BP_Hatchback
+[2022.04.22-10.22.11:410][787]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.04.22-10.22.12:524][806]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.BP_Pickup
+[2022.04.22-10.22.14:047][835]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.04.22-10.22.15:163][854]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.BP_SportsCar
+[2022.04.22-10.22.17:848][905]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV.BP_SUV
+[2022.04.22-10.22.19:131][943]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.04.22-10.22.56:555][117]BlueprintLog: New page: Compile BP_SUV
+[2022.04.22-10.22.56:756][117]LogUObjectHash: Compacting FUObjectHashTables data took   8.75ms
+[2022.04.22-10.23.01:208][370]BlueprintLog: New page: Compile BP_SUV
+[2022.04.22-10.23.01:322][370]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2022.04.22-10.23.10:052][887]BlueprintLog: New page: Compile BP_SUV
+[2022.04.22-10.23.10:160][887]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2022.04.22-10.23.17:926][312]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/BP_SUVF528EA364D5D987B23A8E6BBC422A995.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleVarietyPack/Blueprints/SUV/BP_SUV.uasset'
+[2022.04.22-10.23.17:963][312]AssetCheck: New page: Asset Save: BP_SUV
+[2022.04.22-10.23.17:963][312]LogContentValidation: Display: Validating Blueprint /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV.BP_SUV
+[2022.04.22-10.23.19:299][386]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-10.23.19:299][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-10.23.47:278][  9]BlueprintLog: New page: Compile BP_SportsCar
+[2022.04.22-10.23.47:413][  9]LogUObjectHash: Compacting FUObjectHashTables data took   8.18ms
+[2022.04.22-10.23.48:439][ 46]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/BP_SportsCar11CD01834F224C3660F7728776EC74A6.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.uasset'
+[2022.04.22-10.23.48:468][ 46]AssetCheck: New page: Asset Save: BP_SportsCar
+[2022.04.22-10.23.48:469][ 46]LogContentValidation: Display: Validating Blueprint /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.BP_SportsCar
+[2022.04.22-10.23.49:287][ 93]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.04.22-10.23.49:287][ 93]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-10.23.49:287][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-10.24.12:325][436]BlueprintLog: New page: Compile BP_Pickup
+[2022.04.22-10.24.12:445][436]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2022.04.22-10.24.15:476][596]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/BP_Pickup422475B048F5CC66D87575932198A416.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.uasset'
+[2022.04.22-10.24.15:496][596]AssetCheck: New page: Asset Save: BP_Pickup
+[2022.04.22-10.24.15:496][596]LogContentValidation: Display: Validating Blueprint /Game/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.BP_Pickup
+[2022.04.22-10.24.16:081][627]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.04.22-10.24.16:135][628]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.04.22-10.24.16:135][628]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-10.24.16:135][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-10.24.17:183][682]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.04.22-10.24.27:250][215]BlueprintLog: New page: Compile BP_Hatchback
+[2022.04.22-10.24.27:436][215]LogUObjectHash: Compacting FUObjectHashTables data took  22.86ms
+[2022.04.22-10.24.28:426][245]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/BP_Hatchback1A81311B40403EDA720307944E1D2A70.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.uasset'
+[2022.04.22-10.24.28:457][245]AssetCheck: New page: Asset Save: BP_Hatchback
+[2022.04.22-10.24.28:457][245]LogContentValidation: Display: Validating Blueprint /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.BP_Hatchback
+[2022.04.22-10.24.29:318][294]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.04.22-10.24.34:740][598]BlueprintLog: New page: Compile BP_BoxTruck
+[2022.04.22-10.24.34:856][598]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2022.04.22-10.24.40:470][788]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV.BP_SUV
+[2022.04.22-10.24.44:750][  1]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-10.24.44:750][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-10.24.50:290][119]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.BP_SportsCar
+[2022.04.22-10.24.53:768][200]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.BP_Pickup
+[2022.04.22-10.24.58:031][416]BlueprintLog: New page: Compile BP_Pickup
+[2022.04.22-10.24.58:669][416]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2022.04.22-10.24.59:616][458]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/BP_Pickup998F61D5414611531DBD6DB528D3034C.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.uasset'
+[2022.04.22-10.24.59:645][458]AssetCheck: New page: Asset Save: BP_Pickup
+[2022.04.22-10.24.59:645][458]LogContentValidation: Display: Validating Blueprint /Game/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.BP_Pickup
+[2022.04.22-10.25.00:489][509]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.04.22-10.25.00:819][527]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-10.25.00:820][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-10.25.03:597][681]BlueprintLog: New page: Compile BP_SportsCar
+[2022.04.22-10.25.04:087][681]LogUObjectHash: Compacting FUObjectHashTables data took  14.18ms
+[2022.04.22-10.25.04:891][707]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/BP_SportsCar388E239646EA7BE42EAE69B9BEBEF3AB.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.uasset'
+[2022.04.22-10.25.04:918][707]AssetCheck: New page: Asset Save: BP_SportsCar
+[2022.04.22-10.25.04:918][707]LogContentValidation: Display: Validating Blueprint /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.BP_SportsCar
+[2022.04.22-10.25.05:806][759]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.04.22-10.25.05:806][759]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-10.25.05:807][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-10.25.09:329][953]BlueprintLog: New page: Compile BP_SUV
+[2022.04.22-10.25.09:425][953]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2022.04.22-10.25.10:105][978]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/BP_SUVA33CA4A240B146E6244F63A1CEFC6121.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleVarietyPack/Blueprints/SUV/BP_SUV.uasset'
+[2022.04.22-10.25.10:131][978]AssetCheck: New page: Asset Save: BP_SUV
+[2022.04.22-10.25.10:131][978]LogContentValidation: Display: Validating Blueprint /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV.BP_SUV
+[2022.04.22-10.25.11:257][ 43]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.04.22-10.25.11:257][ 43]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-10.25.11:257][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-10.25.20:484][576]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.04.22-10.25.20:484][576]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-10.25.20:484][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-10.25.24:028][769]BlueprintLog: New page: Compile BP_BoxTruck
+[2022.04.22-10.25.24:133][769]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2022.04.22-10.25.24:940][795]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/BP_BoxTruckB1AD56854F399812E1D3EF9C7FA6F6FD.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck.uasset'
+[2022.04.22-10.25.24:971][795]AssetCheck: New page: Asset Save: BP_BoxTruck
+[2022.04.22-10.25.24:971][795]LogContentValidation: Display: Validating Blueprint /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck.BP_BoxTruck
+[2022.04.22-10.25.27:006][909]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.04.22-10.25.27:007][909]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-10.25.27:007][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-10.25.30:043][982]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.BP_Hatchback
+[2022.04.22-10.25.31:920][ 58]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.04.22-10.25.32:498][ 91]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.04.22-10.25.33:553][137]BlueprintLog: New page: Compile BP_Hatchback
+[2022.04.22-10.25.33:682][137]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2022.04.22-10.25.34:474][159]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/BP_Hatchback9EC54E314CB1BC6BA8E3A29683E03C41.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.uasset'
+[2022.04.22-10.25.34:497][159]AssetCheck: New page: Asset Save: BP_Hatchback
+[2022.04.22-10.25.34:497][159]LogContentValidation: Display: Validating Blueprint /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.BP_Hatchback
+[2022.04.22-10.25.35:270][204]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-10.25.35:270][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-10.26.33:091][279]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleVarietyPack/CarFunctions.CarFunctions
+[2022.04.22-10.27.16:171][798]BlueprintLog: New page: Compile CarFunctions
+[2022.04.22-10.27.16:246][798]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2022.04.22-10.27.17:953][894]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/CarFunctionsBF3D19A34518D8A2CD02478BF825D3BE.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleVarietyPack/CarFunctions.uasset'
+[2022.04.22-10.27.17:979][894]AssetCheck: New page: Asset Save: CarFunctions
+[2022.04.22-10.27.17:979][894]LogContentValidation: Display: Validating Blueprint /Game/VehicleVarietyPack/CarFunctions.CarFunctions
+[2022.04.22-10.29.08:982][408]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-10.29.09:096][408]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2022.04.22-10.29.09:934][450]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.04.22-10.29.10:187][450]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/VehicleAdvExampleMapF7BBDF7940E4FC0DF6E29BA364B27ADD.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2022.04.22-10.29.10:212][450]LogFileHelpers: Saving map 'VehicleAdvExampleMap' took 0.326
+[2022.04.22-10.29.10:238][450]AssetCheck: New page: Asset Save: VehicleAdvExampleMap
+[2022.04.22-10.29.10:238][450]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
+[2022.04.22-10.30.48:935][278]LogEditorTransaction: Undo Move Node
+[2022.04.22-10.32.14:373][361]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-10.32.14:480][361]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2022.04.22-10.33.15:587][  6]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-10.33.15:675][  6]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2022.04.22-10.35.33:289][931]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-10.35.33:382][931]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2022.04.22-10.36.04:488][789]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-10.36.04:583][789]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2022.04.22-10.37.05:038][370]LogEditorTransaction: Undo Move Node
+[2022.04.22-10.37.50:115][ 52]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-10.37.50:210][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.04.22-10.40.40:812][221]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-10.40.40:908][221]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2022.04.22-10.40.55:955][405]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.04.22-10.44.10:682][406]LogAnalytics: Warning: EventCache either took too long to flush (1.755 ms) or had a very large payload (0.911 KB, 3 events). Listing events in the payload for investigation:
+[2022.04.22-10.44.10:710][406]LogAnalytics: Warning:     Editor.Usage.Heartbeat,430
+[2022.04.22-10.44.10:711][406]LogAnalytics: Warning:     Editor.Usage.BlueprintEditor.NodeCreated,261
+[2022.04.22-10.44.10:712][406]LogAnalytics: Warning:     Editor.Usage.BlueprintEditor.Compile,229
+[2022.04.22-10.44.11:315][406]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.22-10.44.11:647][406]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.22-10.44.11:647][406]LogAudioMixer: Display: 1: FrontRight
+[2022.04.22-10.44.15:257][406]LogUObjectHash: Compacting FUObjectHashTables data took  98.93ms
+[2022.04.22-10.44.16:704][406]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/VehicleAdvExampleMap_Auto3981B941746C5B5A37C3B3AAD27BDF206.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto3.umap'
+[2022.04.22-10.44.16:763][406]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 3.461
+[2022.04.22-10.44.16:764][406]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 3.461
+[2022.04.22-10.48.10:299][615]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-10.48.10:517][615]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2022.04.22-10.48.19:693][138]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-10.48.19:702][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-10.51.11:379][177]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-10.51.11:492][177]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.04.22-10.51.12:304][215]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2022.04.22-10.51.12:566][215]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/VehicleAdvExampleMap463FAC12446EF499D8827B9A6CD39CE3.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2022.04.22-10.51.12:652][215]LogFileHelpers: Saving map 'VehicleAdvExampleMap' took 0.390
+[2022.04.22-10.51.13:043][215]AssetCheck: New page: Asset Save: VehicleAdvExampleMap
+[2022.04.22-10.51.13:043][215]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
+[2022.04.22-10.51.20:895][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.04.22-10.51.21:140][675]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/VehicleAdvExampleMapB42E00BF4717A092878E2F99AD12F51C.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2022.04.22-10.51.21:147][675]LogFileHelpers: Saving map 'VehicleAdvExampleMap' took 0.286
+[2022.04.22-10.51.21:173][675]AssetCheck: New page: Asset Save: VehicleAdvExampleMap
+[2022.04.22-10.51.21:173][675]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
+[2022.04.22-10.51.28:076][756]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.22-10.51.28:120][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.22-10.51.28:136][756]PIE: New page: PIE session: VehicleAdvExampleMap (22. apr. 2022 14.51.28)
+[2022.04.22-10.51.28:147][756]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.22-10.51.28:349][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.195097s)
+[2022.04.22-10.51.28:416][756]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2022.04.22-10.51.28:437][756]LogPlayLevel: PIE: World Init took: (0.087490s)
+[2022.04.22-10.51.28:438][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.291311s)
+[2022.04.22-10.51.28:486][756]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.04.22-10.51.28:504][756]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.04.22-10.51.28:508][756]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.22-10.51.28:508][756]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.22-10.51.28:508][756]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.22-10.51.28:508][756]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.22-10.51.28:508][756]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.22-10.51.28:508][756]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.22-10.51.28:510][756]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.22-10.51.28:512][756]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.22-10.51.28:520][756]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.22-10.51.28:520][756]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.22-10.51.28:520][756]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.22-10.51.28:520][756]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.22-10.51.28:530][756]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.22-10.51.28:530][756]LogAudioMixer: Display: 1: FrontRight
+[2022.04.22-10.51.28:641][756]LogAudioMixer: Display: Using Audio Device Højttalere (Realtek(R) Audio)
+[2022.04.22-10.51.28:659][756]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.22-10.51.28:660][756]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.22-10.51.28:662][756]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.22-10.51.28:666][756]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.22-10.51.28:667][756]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.22-10.51.28:668][756]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.22-10.51.28:676][756]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.22-10.51.28:676][756]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.22-10.51.28:676][756]LogInit: FAudioDevice initialized.
+[2022.04.22-10.51.28:676][756]LogAudio: Display: Audio Device (ID: 13) registered with world 'VehicleAdvExampleMap'.
+[2022.04.22-10.51.28:764][756]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2022.04.22-10.51.28:856][756]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2022.04.22-12.51.28
+[2022.04.22-10.51.28:870][756]LogWorld: Bringing up level for play took: 0.088972
+[2022.04.22-10.51.28:883][756]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2022.04.22-10.51.28:929][756]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10050.000 Y=15970.000 Z=160.000] for [CarSelect_C]
+[2022.04.22-10.51.28:930][756]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type CarSelect_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -10050.000000 15970.000000 160.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.04.22-10.51.29:003][756]PIE: Server logged in
+[2022.04.22-10.51.29:005][756]PIE: Play in editor total start time 0,91 seconds.
+[2022.04.22-10.51.41:818][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.22-10.51.41:818][ 40]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.22-10.51.41:824][ 40]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-10.51.41:829][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-10.51.41:874][ 40]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.22-10.51.41:921][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-10.51.41:984][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.22-10.51.41:991][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.22-10.51.41:997][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.22-10.51.42:025][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   6.77ms
+[2022.04.22-10.51.42:180][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.04.22-10.52.42:909][563]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-10.52.42:991][563]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.04.22-10.52.44:891][618]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.04.22-10.52.45:116][618]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/VehicleAdvExampleMap312B29624951B49840396B8519F7216E.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2022.04.22-10.52.45:142][618]AssetCheck: New page: Asset Save: VehicleAdvExampleMap
+[2022.04.22-10.52.45:142][618]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
+[2022.04.22-10.52.52:913][786]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV.BP_SUV
+[2022.04.22-10.52.57:044][905]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.BP_SportsCar
+[2022.04.22-10.52.59:678][952]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.BP_Pickup
+[2022.04.22-10.53.02:513][  9]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.BP_Hatchback
+[2022.04.22-10.53.05:145][ 60]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck.BP_BoxTruck
+[2022.04.22-10.53.16:653][652]BlueprintLog: New page: Compile BP_SUV
+[2022.04.22-10.53.16:807][652]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2022.04.22-10.53.25:169][137]BlueprintLog: New page: Compile BP_SUV
+[2022.04.22-10.53.25:272][137]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2022.04.22-10.53.28:233][300]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/BP_SUVF2904E574792C04EE29600AF0A606AC3.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleVarietyPack/Blueprints/SUV/BP_SUV.uasset'
+[2022.04.22-10.53.28:251][300]AssetCheck: New page: Asset Save: BP_SUV
+[2022.04.22-10.53.28:252][300]LogContentValidation: Display: Validating Blueprint /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV.BP_SUV
+[2022.04.22-10.53.33:503][613]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-10.53.33:503][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-10.53.45:333][292]BlueprintLog: New page: Compile BP_SportsCar
+[2022.04.22-10.53.45:434][292]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2022.04.22-10.53.51:961][677]BlueprintLog: New page: Compile BP_SportsCar
+[2022.04.22-10.53.52:052][677]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2022.04.22-10.53.53:204][734]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/BP_SportsCar95B1B9744F8478FDB02BD786D15E5E57.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.uasset'
+[2022.04.22-10.53.53:221][734]AssetCheck: New page: Asset Save: BP_SportsCar
+[2022.04.22-10.53.53:221][734]LogContentValidation: Display: Validating Blueprint /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.BP_SportsCar
+[2022.04.22-10.53.55:003][840]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.04.22-10.53.55:003][840]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-10.53.55:003][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-10.54.02:558][279]BlueprintLog: New page: Compile BP_Pickup
+[2022.04.22-10.54.02:659][279]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2022.04.22-10.54.10:694][743]BlueprintLog: New page: Compile BP_Pickup
+[2022.04.22-10.54.10:820][743]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2022.04.22-10.54.11:577][775]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/BP_Pickup2D37D1E14BC762B75BCAECAB823FDA23.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.uasset'
+[2022.04.22-10.54.11:592][775]AssetCheck: New page: Asset Save: BP_Pickup
+[2022.04.22-10.54.11:592][775]LogContentValidation: Display: Validating Blueprint /Game/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.BP_Pickup
+[2022.04.22-10.54.12:600][827]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.04.22-10.54.19:493][228]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/BP_Pickup928828584912452E27C83D9D915BF29E.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.uasset'
+[2022.04.22-10.54.19:510][228]AssetCheck: New page: Asset Save: BP_Pickup
+[2022.04.22-10.54.19:510][228]LogContentValidation: Display: Validating Blueprint /Game/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.BP_Pickup
+[2022.04.22-10.54.20:287][275]BlueprintLog: New page: Compile BP_Pickup
+[2022.04.22-10.54.20:371][275]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2022.04.22-10.54.20:992][301]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/BP_PickupBECD80E44A0C7850A7892B818F71A2EF.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.uasset'
+[2022.04.22-10.54.21:008][301]AssetCheck: New page: Asset Save: BP_Pickup
+[2022.04.22-10.54.21:008][301]LogContentValidation: Display: Validating Blueprint /Game/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.BP_Pickup
+[2022.04.22-10.54.22:375][382]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.04.22-10.54.22:375][382]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-10.54.22:375][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-10.55.19:277][686]BlueprintLog: New page: Compile BP_Hatchback
+[2022.04.22-10.55.19:395][686]LogUObjectHash: Compacting FUObjectHashTables data took  10.49ms
+[2022.04.22-10.55.26:482][101]BlueprintLog: New page: Compile BP_Hatchback
+[2022.04.22-10.55.26:572][101]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2022.04.22-10.55.27:627][151]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/BP_HatchbackF0BD0B0049AC33A268B72B9F59D0BEDE.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.uasset'
+[2022.04.22-10.55.27:646][151]AssetCheck: New page: Asset Save: BP_Hatchback
+[2022.04.22-10.55.27:646][151]LogContentValidation: Display: Validating Blueprint /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.BP_Hatchback
+[2022.04.22-10.55.28:355][180]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.04.22-10.55.28:355][180]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.04.22-10.55.28:355][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.22-10.55.28:446][181]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.04.22-10.55.37:808][724]BlueprintLog: New page: Compile BP_BoxTruck
+[2022.04.22-10.55.37:903][724]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2022.04.22-10.55.50:024][438]BlueprintLog: New page: Compile BP_BoxTruck
+[2022.04.22-10.55.50:203][438]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2022.04.22-10.55.50:838][465]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/BP_BoxTruck1E032690491EE4C1C8A0B5BC99039D1D.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck.uasset'
+[2022.04.22-10.55.50:853][465]AssetCheck: New page: Asset Save: BP_BoxTruck
+[2022.04.22-10.55.50:853][465]LogContentValidation: Display: Validating Blueprint /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck.BP_BoxTruck
+[2022.04.22-11.00.31:015][264]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-11.00.31:117][264]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2022.04.22-11.00.32:854][357]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.04.22-11.00.33:092][357]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/VehicleAdvExampleMap130B13D9427D4F451CFA01952E5F6801.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2022.04.22-11.00.33:106][357]LogFileHelpers: Saving map 'VehicleAdvExampleMap' took 0.288
+[2022.04.22-11.00.33:132][357]AssetCheck: New page: Asset Save: VehicleAdvExampleMap
+[2022.04.22-11.00.33:133][357]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
+[2022.04.22-11.00.54:280][608]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2022.04.22-11.00.54:389][608]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2022.04.22-11.00.55:140][646]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.04.22-11.00.55:348][646]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/VehicleAdvExampleMap5DF1D0524DF0C6E485EE7EBE3F6E42C7.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2022.04.22-11.00.55:353][646]LogFileHelpers: Saving map 'VehicleAdvExampleMap' took 0.256
+[2022.04.22-11.00.55:367][646]AssetCheck: New page: Asset Save: VehicleAdvExampleMap
+[2022.04.22-11.00.55:367][646]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
