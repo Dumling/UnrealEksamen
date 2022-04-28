@@ -966,3 +966,129 @@ Scale3D: 1.000000 1.000000 1.000000
 [2022.04.28-10.37.09:498][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.04.28-10.37.09:526][234]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
 [2022.04.28-10.37.09:561][235]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.04.28-10.40.13:513][810]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-10.40.13:533][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-10.40.13:534][810]PIE: New page: PIE session: VehicleAdvExampleMap (28. apr. 2022 14.40.13)
+[2022.04.28-10.40.13:534][810]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.28-10.40.13:642][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.107369s)
+[2022.04.28-10.40.13:643][810]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2022.04.28-10.40.13:644][810]LogPlayLevel: PIE: World Init took: (0.002277s)
+[2022.04.28-10.40.13:644][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.109868s)
+[2022.04.28-10.40.13:656][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.04.28-10.40.13:659][810]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.28-10.40.13:660][810]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.28-10.40.13:660][810]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.28-10.40.13:660][810]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.28-10.40.13:660][810]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.28-10.40.13:660][810]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.28-10.40.13:660][810]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.28-10.40.13:660][810]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.28-10.40.13:660][810]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.28-10.40.13:660][810]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.28-10.40.13:660][810]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.28-10.40.13:660][810]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.28-10.40.13:660][810]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.28-10.40.13:667][810]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.28-10.40.13:667][810]LogAudioMixer: Display: 1: FrontRight
+[2022.04.28-10.40.13:764][810]LogAudioMixer: Display: Using Audio Device Højttalere (Realtek(R) Audio)
+[2022.04.28-10.40.13:764][810]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.28-10.40.13:764][810]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.28-10.40.13:764][810]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.28-10.40.13:765][810]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.28-10.40.13:765][810]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.28-10.40.13:765][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.28-10.40.13:767][810]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.28-10.40.13:767][810]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.28-10.40.13:767][810]LogInit: FAudioDevice initialized.
+[2022.04.28-10.40.13:767][810]LogAudio: Display: Audio Device (ID: 3) registered with world 'VehicleAdvExampleMap'.
+[2022.04.28-10.40.13:779][810]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2022.04.28-10.40.13:793][810]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2022.04.28-12.40.13
+[2022.04.28-10.40.13:794][810]LogWorld: Bringing up level for play took: 0.009726
+[2022.04.28-10.40.13:794][810]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2022.04.28-10.40.13:799][810]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10050.000 Y=15970.000 Z=160.000] for [CarSelect_C]
+[2022.04.28-10.40.13:799][810]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type CarSelect_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -10050.000000 15970.000000 160.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.04.28-10.40.13:805][810]PIE: Server logged in
+[2022.04.28-10.40.13:806][810]PIE: Play in editor total start time 0,285 seconds.
+[2022.04.28-10.40.19:363][918]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2022.04.28-10.41.11:044][939]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2022.04.28-10.41.11:487][950]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2022.04.28-10.41.12:320][970]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2022.04.28-10.41.12:597][977]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2022.04.28-10.41.12:798][982]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2022.04.28-10.41.13:996][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.41.13:996][ 10]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.28-10.41.13:998][ 10]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-10.41.14:015][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-10.41.14:034][ 10]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-10.41.14:038][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-10.41.14:054][ 10]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.28-10.41.14:055][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.28-10.41.14:057][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.28-10.41.14:064][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-10.41.14:070][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.04.28-10.41.14:111][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.04.28-10.41.24:370][239]LogSlate: Took 0.002687 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.28-10.41.24:404][239]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleVarietyPack/CarFunctions.CarFunctions
+[2022.04.28-10.41.24:865][239]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2022.04.28-10.41.26:248][239]LogSlate: Took 0.001158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.28-10.41.26:336][240]LogSlate: Took 0.001319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.28-10.42.33:031][482]BlueprintLog: New page: Compile CarFunctions
+[2022.04.28-10.42.33:129][482]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.04.28-10.42.33:203][482]LogSlate: Took 0.000998 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.28-10.42.35:296][565]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.28-10.42.35:336][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-10.42.35:337][565]PIE: New page: PIE session: VehicleAdvExampleMap (28. apr. 2022 14.42.35)
+[2022.04.28-10.42.35:337][565]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.28-10.42.35:407][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070057s)
+[2022.04.28-10.42.35:408][565]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2022.04.28-10.42.35:409][565]LogPlayLevel: PIE: World Init took: (0.001803s)
+[2022.04.28-10.42.35:409][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.072104s)
+[2022.04.28-10.42.35:448][565]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2022.04.28-10.42.35:449][565]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.04.28-10.42.35:450][565]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.28-10.42.35:450][565]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.28-10.42.35:450][565]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.28-10.42.35:450][565]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.28-10.42.35:450][565]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.28-10.42.35:450][565]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.28-10.42.35:450][565]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.28-10.42.35:450][565]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.28-10.42.35:450][565]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.28-10.42.35:450][565]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.28-10.42.35:451][565]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.28-10.42.35:451][565]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.28-10.42.35:460][565]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.28-10.42.35:460][565]LogAudioMixer: Display: 1: FrontRight
+[2022.04.28-10.42.35:581][565]LogAudioMixer: Display: Using Audio Device Højttalere (Realtek(R) Audio)
+[2022.04.28-10.42.35:581][565]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.28-10.42.35:581][565]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.28-10.42.35:581][565]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.28-10.42.35:582][565]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.28-10.42.35:582][565]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.28-10.42.35:582][565]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.28-10.42.35:584][565]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.28-10.42.35:584][565]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.28-10.42.35:584][565]LogInit: FAudioDevice initialized.
+[2022.04.28-10.42.35:584][565]LogAudio: Display: Audio Device (ID: 4) registered with world 'VehicleAdvExampleMap'.
+[2022.04.28-10.42.35:596][565]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2022.04.28-10.42.35:611][565]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2022.04.28-12.42.35
+[2022.04.28-10.42.35:612][565]LogWorld: Bringing up level for play took: 0.009718
+[2022.04.28-10.42.35:612][565]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.04.28-10.42.35:617][565]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10050.000 Y=15970.000 Z=160.000] for [CarSelect_C]
+[2022.04.28-10.42.35:618][565]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type CarSelect_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -10050.000000 15970.000000 160.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.04.28-10.42.35:623][565]PIE: Server logged in
+[2022.04.28-10.42.35:624][565]PIE: Play in editor total start time 0,304 seconds.
+[2022.04.28-10.42.43:029][669]PIE: Warning: Attempting to move a fully simulated skeletal mesh VehicleMesh. Please use the Teleport flag
+[2022.04.28-10.43.04:859][175]PIE: Warning: Attempting to move a fully simulated skeletal mesh VehicleMesh. Please use the Teleport flag
+[2022.04.28-10.43.30:962][799]PIE: Warning: Attempting to move a fully simulated skeletal mesh VehicleMesh. Please use the Teleport flag
+[2022.04.28-10.44.14:059][728]PIE: Warning: Attempting to move a fully simulated skeletal mesh VehicleMesh. Please use the Teleport flag
+[2022.04.28-10.44.14:060][728]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2022.04.28-10.44.16:277][779]PIE: Warning: Attempting to move a fully simulated skeletal mesh VehicleMesh. Please use the Teleport flag
+[2022.04.28-10.44.24:393][936]PIE: Warning: Attempting to move a fully simulated skeletal mesh VehicleMesh. Please use the Teleport flag
+[2022.04.28-10.45.14:226][458]PIE: Warning: Attempting to move a fully simulated skeletal mesh VehicleMesh. Please use the Teleport flag
