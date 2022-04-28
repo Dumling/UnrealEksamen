@@ -3277,3 +3277,6 @@ Scale3D: 1.000000 1.000000 1.000000
 [2022.04.28-11.43.01:679][732]LogFileHelpers: Saving map 'VehicleAdvExampleMap' took 0.298
 [2022.04.28-11.43.01:703][732]AssetCheck: New page: Asset Save: VehicleAdvExampleMap
 [2022.04.28-11.43.01:703][732]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
+[2022.04.28-11.43.53:859][208]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.04.28-11.43.53:859][208]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-11.43.53:859][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
