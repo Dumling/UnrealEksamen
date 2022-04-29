@@ -7304,3 +7304,447 @@ Scale3D: 1.000000 1.000000 1.000000
 [2022.04.29-11.21.26:894][ 74]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/EvilHatchback68C7824A482AA5274D885499C1367C64.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleVarietyPack/Blueprints/Hatchback/EvilHatchback.uasset'
 [2022.04.29-11.21.26:911][ 74]AssetCheck: New page: Asset Save: EvilHatchback
 [2022.04.29-11.21.26:911][ 74]LogContentValidation: Display: Validating Blueprint /Game/VehicleVarietyPack/Blueprints/Hatchback/EvilHatchback.EvilHatchback
+[2022.04.29-11.25.05:468][893]LogEditorViewport: Clicking on Actor (LMB): EvilHatchback_C (EvilHatchback)
+[2022.04.29-11.25.23:797][847]BlueprintLog: New page: Compile EvilHatchback
+[2022.04.29-11.25.23:985][847]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2022.04.29-11.25.25:072][897]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/EvilHatchback40EB06474E203F62C4E186857F680E77.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleVarietyPack/Blueprints/Hatchback/EvilHatchback.uasset'
+[2022.04.29-11.25.25:088][897]AssetCheck: New page: Asset Save: EvilHatchback
+[2022.04.29-11.25.25:088][897]LogContentValidation: Display: Validating Blueprint /Game/VehicleVarietyPack/Blueprints/Hatchback/EvilHatchback.EvilHatchback
+[2022.04.29-11.25.38:388][384]BlueprintLog: New page: Compile EvilHatchback
+[2022.04.29-11.25.38:608][384]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2022.04.29-11.25.39:376][399]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/EvilHatchbackF2C5D4334D3B95BF08EC3B97B6D8EE82.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleVarietyPack/Blueprints/Hatchback/EvilHatchback.uasset'
+[2022.04.29-11.25.39:397][399]AssetCheck: New page: Asset Save: EvilHatchback
+[2022.04.29-11.25.39:397][399]LogContentValidation: Display: Validating Blueprint /Game/VehicleVarietyPack/Blueprints/Hatchback/EvilHatchback.EvilHatchback
+[2022.04.29-11.25.40:690][445]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2022.04.29-11.25.41:049][445]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/VehicleAdvExampleMapFE503CED4BECBFB58418B7BC3B201CCA.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2022.04.29-11.25.41:059][445]LogFileHelpers: Saving map 'VehicleAdvExampleMap' took 0.413
+[2022.04.29-11.25.41:077][445]AssetCheck: New page: Asset Save: VehicleAdvExampleMap
+[2022.04.29-11.25.41:077][445]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
+[2022.04.29-11.27.37:629][220]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.29-11.27.37:688][220]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.29-11.27.37:707][220]PIE: New page: PIE session: VehicleAdvExampleMap (29. apr. 2022 15.27.37)
+[2022.04.29-11.27.37:723][220]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.29-11.27.37:870][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.144763s)
+[2022.04.29-11.27.37:951][220]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2022.04.29-11.27.37:965][220]LogPlayLevel: PIE: World Init took: (0.095679s)
+[2022.04.29-11.27.37:967][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.243598s)
+[2022.04.29-11.27.38:018][220]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2022.04.29-11.27.38:029][220]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2022.04.29-11.27.38:033][220]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.29-11.27.38:033][220]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.29-11.27.38:034][220]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.29-11.27.38:034][220]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.29-11.27.38:034][220]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.29-11.27.38:034][220]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.29-11.27.38:034][220]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.29-11.27.38:035][220]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.29-11.27.38:041][220]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.29-11.27.38:041][220]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.29-11.27.38:041][220]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.29-11.27.38:041][220]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.29-11.27.38:062][220]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.29-11.27.38:062][220]LogAudioMixer: Display: 1: FrontRight
+[2022.04.29-11.27.38:161][220]LogAudioMixer: Display: Using Audio Device Højttalere (Realtek(R) Audio)
+[2022.04.29-11.27.38:175][220]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.29-11.27.38:175][220]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.29-11.27.38:178][220]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.29-11.27.38:180][220]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.29-11.27.38:181][220]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.29-11.27.38:181][220]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.29-11.27.38:184][220]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.29-11.27.38:184][220]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.29-11.27.38:184][220]LogInit: FAudioDevice initialized.
+[2022.04.29-11.27.38:186][220]LogAudio: Display: Audio Device (ID: 38) registered with world 'VehicleAdvExampleMap'.
+[2022.04.29-11.27.38:230][220]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2022.04.29-11.27.38:281][220]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2022.04.29-13.27.38
+[2022.04.29-11.27.38:297][220]LogWorld: Bringing up level for play took: 0.050463
+[2022.04.29-11.27.38:308][220]LogOnline: OSS: Creating online subsystem instance for: :Context_74
+[2022.04.29-11.27.38:342][220]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10050.000 Y=15970.000 Z=160.000] for [CarSelect_C]
+[2022.04.29-11.27.38:342][220]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type CarSelect_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -10050.000000 15970.000000 160.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.04.29-11.27.38:396][220]PIE: Server logged in
+[2022.04.29-11.27.38:397][220]PIE: Play in editor total start time 0,737 seconds.
+[2022.04.29-11.27.41:322][264]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.27.48:341][375]LogBlueprintUserMessages: [None] 144.000702
+[2022.04.29-11.27.48:341][375]LogBlueprintUserMessages: [None] 144.000702
+[2022.04.29-11.27.48:341][375]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.27.49:907][405]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.27.49:907][405]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.27.50:116][409]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.27.50:166][410]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.27.51:015][426]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.27.51:016][426]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.27.51:175][429]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.27.51:176][429]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.27.51:758][440]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.27.51:759][440]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.28.01:269][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-11.28.01:269][628]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.29-11.28.01:277][628]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-11.28.01:283][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-11.28.01:311][628]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.29-11.28.01:334][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-11.28.01:381][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-11.28.01:381][628]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-11.28.01:385][628]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-11.28.01:409][628]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.04.29-11.28.01:475][629]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2022.04.29-11.29.04:405][376]BlueprintLog: New page: Compile EvilHatchback
+[2022.04.29-11.29.04:569][376]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2022.04.29-11.29.05:284][403]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/EvilHatchbackB738D28D4ED0143F6B59DA98DEC81EB3.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleVarietyPack/Blueprints/Hatchback/EvilHatchback.uasset'
+[2022.04.29-11.29.05:305][403]AssetCheck: New page: Asset Save: EvilHatchback
+[2022.04.29-11.29.05:305][403]LogContentValidation: Display: Validating Blueprint /Game/VehicleVarietyPack/Blueprints/Hatchback/EvilHatchback.EvilHatchback
+[2022.04.29-11.29.59:273][780]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2022.04.29-11.29.59:546][780]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/VehicleAdvExampleMapE2833E4C4C431DCC5963ADB9ED393C43.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2022.04.29-11.29.59:554][780]LogFileHelpers: Saving map 'VehicleAdvExampleMap' took 0.322
+[2022.04.29-11.29.59:569][780]AssetCheck: New page: Asset Save: VehicleAdvExampleMap
+[2022.04.29-11.29.59:569][780]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
+[2022.04.29-11.31.00:125][287]BlueprintLog: New page: Compile EvilHatchback
+[2022.04.29-11.31.00:274][287]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2022.04.29-11.31.03:840][362]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.29-11.31.03:856][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.29-11.31.03:856][362]PIE: New page: PIE session: VehicleAdvExampleMap (29. apr. 2022 15.31.03)
+[2022.04.29-11.31.03:874][362]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.29-11.31.03:936][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061179s)
+[2022.04.29-11.31.03:938][362]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2022.04.29-11.31.03:938][362]LogPlayLevel: PIE: World Init took: (0.002126s)
+[2022.04.29-11.31.03:938][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.063654s)
+[2022.04.29-11.31.03:991][362]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2022.04.29-11.31.03:993][362]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2022.04.29-11.31.03:993][362]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.29-11.31.03:993][362]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.29-11.31.03:993][362]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.29-11.31.03:993][362]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.29-11.31.03:993][362]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.29-11.31.03:993][362]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.29-11.31.03:993][362]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.29-11.31.03:993][362]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.29-11.31.03:994][362]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.29-11.31.03:994][362]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.29-11.31.03:994][362]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.29-11.31.03:994][362]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.29-11.31.04:000][362]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.29-11.31.04:000][362]LogAudioMixer: Display: 1: FrontRight
+[2022.04.29-11.31.04:091][362]LogAudioMixer: Display: Using Audio Device Højttalere (Realtek(R) Audio)
+[2022.04.29-11.31.04:091][362]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.29-11.31.04:091][362]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.29-11.31.04:091][362]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.29-11.31.04:092][362]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.29-11.31.04:092][362]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.29-11.31.04:092][362]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.29-11.31.04:094][362]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.29-11.31.04:094][362]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.29-11.31.04:094][362]LogInit: FAudioDevice initialized.
+[2022.04.29-11.31.04:094][362]LogAudio: Display: Audio Device (ID: 39) registered with world 'VehicleAdvExampleMap'.
+[2022.04.29-11.31.04:109][362]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2022.04.29-11.31.04:123][362]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2022.04.29-13.31.04
+[2022.04.29-11.31.04:124][362]LogWorld: Bringing up level for play took: 0.009798
+[2022.04.29-11.31.04:124][362]LogOnline: OSS: Creating online subsystem instance for: :Context_75
+[2022.04.29-11.31.04:129][362]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5140.000 Y=15970.000 Z=160.000] for [CarSelect_C]
+[2022.04.29-11.31.04:129][362]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type CarSelect_C at Rotation: Pitch 0.000000 Yaw -179.999954 Roll 0.000000
+Translation: -5140.000000 15970.000000 160.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.04.29-11.31.04:136][362]PIE: Server logged in
+[2022.04.29-11.31.04:137][362]PIE: Play in editor total start time 0,29 seconds.
+[2022.04.29-11.31.08:404][426]LogScript: Warning: Infinite script recursion (120 calls) detected - see log for stack trace
+	EvilHatchback_C /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.EvilHatchback_2
+	Function /Game/VehicleVarietyPack/Blueprints/Hatchback/EvilHatchback.EvilHatchback_C:Fire:0000
+[2022.04.29-11.31.08:407][426]PIE: Error: Infinite loop detected. Blueprint:  EvilHatchback Function:  Fire Call Stack:  Show
+[2022.04.29-11.31.08:463][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-11.31.08:463][426]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.29-11.31.08:464][426]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-11.31.08:467][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-11.31.08:608][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.29-11.31.08:631][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-11.31.08:673][426]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.29-11.31.08:673][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-11.31.08:674][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-11.31.08:678][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-11.31.08:685][426]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2022.04.29-11.31.08:910][427]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2022.04.29-11.31.18:860][637]LogSlate: Window 'Message Log' being destroyed
+[2022.04.29-11.31.18:865][637]LogSlate: Window 'Message Log' being destroyed
+[2022.04.29-11.31.53:101][561]BlueprintLog: New page: Compile EvilHatchback
+[2022.04.29-11.31.53:261][561]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2022.04.29-11.31.53:940][588]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/EvilHatchback0F26B8B64094FED35C7A038B1551E7C5.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleVarietyPack/Blueprints/Hatchback/EvilHatchback.uasset'
+[2022.04.29-11.31.53:962][588]AssetCheck: New page: Asset Save: EvilHatchback
+[2022.04.29-11.31.53:962][588]LogContentValidation: Display: Validating Blueprint /Game/VehicleVarietyPack/Blueprints/Hatchback/EvilHatchback.EvilHatchback
+[2022.04.29-11.31.55:441][627]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.29-11.31.55:461][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.29-11.31.55:461][627]PIE: New page: PIE session: VehicleAdvExampleMap (29. apr. 2022 15.31.55)
+[2022.04.29-11.31.55:467][627]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.29-11.31.55:533][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065641s)
+[2022.04.29-11.31.55:534][627]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2022.04.29-11.31.55:535][627]LogPlayLevel: PIE: World Init took: (0.002113s)
+[2022.04.29-11.31.55:535][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.068047s)
+[2022.04.29-11.31.55:588][627]LogUObjectHash: Compacting FUObjectHashTables data took   7.71ms
+[2022.04.29-11.31.55:591][627]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2022.04.29-11.31.55:591][627]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.29-11.31.55:591][627]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.29-11.31.55:592][627]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.29-11.31.55:592][627]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.29-11.31.55:592][627]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.29-11.31.55:592][627]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.29-11.31.55:592][627]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.29-11.31.55:592][627]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.29-11.31.55:592][627]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.29-11.31.55:592][627]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.29-11.31.55:592][627]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.29-11.31.55:593][627]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.29-11.31.55:600][627]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.29-11.31.55:600][627]LogAudioMixer: Display: 1: FrontRight
+[2022.04.29-11.31.55:711][627]LogAudioMixer: Display: Using Audio Device Højttalere (Realtek(R) Audio)
+[2022.04.29-11.31.55:711][627]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.29-11.31.55:711][627]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.29-11.31.55:711][627]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.29-11.31.55:712][627]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.29-11.31.55:712][627]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.29-11.31.55:712][627]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.29-11.31.55:714][627]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.29-11.31.55:714][627]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.29-11.31.55:714][627]LogInit: FAudioDevice initialized.
+[2022.04.29-11.31.55:714][627]LogAudio: Display: Audio Device (ID: 40) registered with world 'VehicleAdvExampleMap'.
+[2022.04.29-11.31.55:730][627]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2022.04.29-11.31.55:746][627]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2022.04.29-13.31.55
+[2022.04.29-11.31.55:746][627]LogWorld: Bringing up level for play took: 0.010677
+[2022.04.29-11.31.55:747][627]LogOnline: OSS: Creating online subsystem instance for: :Context_76
+[2022.04.29-11.31.55:751][627]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5140.000 Y=15970.000 Z=160.000] for [CarSelect_C]
+[2022.04.29-11.31.55:751][627]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type CarSelect_C at Rotation: Pitch 0.000000 Yaw -179.999954 Roll 0.000000
+Translation: -5140.000000 15970.000000 160.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.04.29-11.31.55:759][627]PIE: Server logged in
+[2022.04.29-11.31.55:760][627]PIE: Play in editor total start time 0,312 seconds.
+[2022.04.29-11.32.11:912][883]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.32.13:714][919]LogBlueprintUserMessages: [RocketProjectile_C_0] EvilHatchback
+[2022.04.29-11.32.13:715][919]LogBlueprintUserMessages: [RocketProjectile_C_1] EvilHatchback
+[2022.04.29-11.32.14:413][933]LogBlueprintUserMessages: [RocketProjectile_C_2] EvilHatchback
+[2022.04.29-11.32.14:414][933]LogBlueprintUserMessages: [RocketProjectile_C_3] EvilHatchback
+[2022.04.29-11.32.14:613][937]LogBlueprintUserMessages: [RocketProjectile_C_4] EvilHatchback
+[2022.04.29-11.32.14:613][937]LogBlueprintUserMessages: [RocketProjectile_C_5] EvilHatchback
+[2022.04.29-11.32.14:763][940]LogBlueprintUserMessages: [RocketProjectile_C_6] EvilHatchback
+[2022.04.29-11.32.14:763][940]LogBlueprintUserMessages: [RocketProjectile_C_7] EvilHatchback
+[2022.04.29-11.32.14:913][943]LogBlueprintUserMessages: [RocketProjectile_C_8] EvilHatchback
+[2022.04.29-11.32.14:913][943]LogBlueprintUserMessages: [RocketProjectile_C_9] EvilHatchback
+[2022.04.29-11.32.15:113][947]LogBlueprintUserMessages: [RocketProjectile_C_10] EvilHatchback
+[2022.04.29-11.32.15:113][947]LogBlueprintUserMessages: [RocketProjectile_C_11] EvilHatchback
+[2022.04.29-11.32.15:263][950]LogBlueprintUserMessages: [RocketProjectile_C_12] EvilHatchback
+[2022.04.29-11.32.15:263][950]LogBlueprintUserMessages: [RocketProjectile_C_13] EvilHatchback
+[2022.04.29-11.32.15:414][953]LogBlueprintUserMessages: [RocketProjectile_C_14] EvilHatchback
+[2022.04.29-11.32.15:414][953]LogBlueprintUserMessages: [RocketProjectile_C_15] EvilHatchback
+[2022.04.29-11.32.15:563][956]LogBlueprintUserMessages: [RocketProjectile_C_16] EvilHatchback
+[2022.04.29-11.32.15:563][956]LogBlueprintUserMessages: [RocketProjectile_C_17] EvilHatchback
+[2022.04.29-11.32.15:713][959]LogBlueprintUserMessages: [RocketProjectile_C_18] EvilHatchback
+[2022.04.29-11.32.15:713][959]LogBlueprintUserMessages: [RocketProjectile_C_19] EvilHatchback
+[2022.04.29-11.32.19:855][ 42]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.32.36:040][331]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.32.39:764][398]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.32.49:408][587]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.06:867][907]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.06:869][907]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.07:183][912]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.07:184][912]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.07:383][915]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.07:384][915]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.07:583][918]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.07:584][918]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.07:784][921]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.07:785][921]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.07:916][923]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.07:917][923]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.08:054][925]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.08:117][926]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.08:321][929]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.08:321][929]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.08:987][939]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.08:988][939]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.09:187][942]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.09:187][942]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.09:387][945]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.09:387][945]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.10:116][956]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.10:116][956]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.10:364][960]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.10:364][960]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.11:487][978]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.11:488][978]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.11:687][981]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.11:688][981]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.13:149][  3]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.13:150][  3]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.13:417][  7]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.13:417][  7]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.13:615][ 10]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.13:682][ 11]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.13:949][ 15]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.13:950][ 15]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.14:149][ 18]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.14:149][ 18]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.14:349][ 21]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.14:350][ 21]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.14:549][ 24]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.14:549][ 24]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.14:753][ 27]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.14:753][ 27]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.14:882][ 29]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.14:883][ 29]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.15:082][ 32]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.15:083][ 32]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.15:287][ 35]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.15:288][ 35]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.15:491][ 38]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.15:492][ 38]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.15:615][ 40]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.15:616][ 40]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.16:678][ 56]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.16:678][ 56]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.16:802][ 58]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.16:803][ 58]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.17:001][ 61]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.17:002][ 61]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.17:132][ 63]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.17:133][ 63]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.17:336][ 66]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.17:336][ 66]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.17:465][ 68]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.17:466][ 68]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.17:669][ 71]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.17:669][ 71]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.17:798][ 73]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.17:799][ 73]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.17:999][ 76]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.18:000][ 76]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.18:202][ 79]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.18:203][ 79]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.18:335][ 81]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.18:335][ 81]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.18:465][ 83]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.18:465][ 83]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.18:665][ 86]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.18:665][ 86]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.18:868][ 89]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.18:869][ 89]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.18:998][ 91]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.18:999][ 91]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.19:211][ 94]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.19:211][ 94]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.19:338][ 96]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.19:339][ 96]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.19:538][ 99]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.19:538][ 99]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.19:664][101]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.19:665][101]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.19:864][104]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.19:865][104]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.20:067][107]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.20:068][107]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.20:191][109]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.20:192][109]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.20:384][112]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.20:385][112]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.20:514][114]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.20:515][114]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.20:717][117]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.20:718][117]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.20:854][119]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.20:854][119]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.21:067][122]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.21:067][122]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.21:198][124]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.21:199][124]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.21:400][127]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.21:401][127]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.21:531][129]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.21:531][129]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.21:735][132]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.21:735][132]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.21:865][134]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.21:866][134]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.22:064][137]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.22:064][137]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.22:267][140]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.22:268][140]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.22:398][142]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.22:398][142]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.22:604][145]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.22:605][145]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.22:808][148]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.22:808][148]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.22:942][150]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.22:943][150]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.23:148][153]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.23:149][153]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.23:350][156]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.23:352][156]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.23:551][159]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.23:552][159]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.23:681][161]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.23:682][161]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.23:875][164]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.23:877][164]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.24:065][167]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.24:066][167]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.24:265][170]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.24:266][170]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.24:452][173]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.24:453][173]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.24:647][176]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.24:648][176]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.24:843][179]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.24:844][179]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.25:033][182]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.25:033][182]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.25:221][185]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.25:222][185]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.25:408][188]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.25:409][188]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.25:664][192]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.25:665][192]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.25:862][195]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.25:863][195]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.25:983][197]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.25:984][197]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.26:172][200]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.26:174][200]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.26:359][203]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.26:361][203]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.26:547][206]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.26:549][206]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.26:733][209]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.26:735][209]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.26:924][212]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.26:924][212]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.41:717][354]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.41:718][354]LogBlueprintUserMessages: [EvilHatchback_2] 30.0
+[2022.04.29-11.33.42:594][369]LogBlueprintUserMessages: [EvilHatchback_2] 29.126505
+[2022.04.29-11.33.43:368][382]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.33.43:431][383]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.33.43:551][385]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.33.43:614][386]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.33.43:736][388]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.33.43:798][389]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.33.43:921][391]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.33.43:977][392]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.33.44:100][394]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.33.44:100][394]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.33.44:280][397]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.33.44:280][397]LogBlueprintUserMessages: [EvilHatchback_2] 0.0
+[2022.04.29-11.33.46:532][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-11.33.46:532][431]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.04.29-11.33.46:533][431]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-11.33.46:536][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-11.33.46:636][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.29-11.33.46:672][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-11.33.46:737][431]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.29-11.33.46:738][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-11.33.46:740][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.29-11.33.46:748][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-11.33.46:762][431]LogUObjectHash: Compacting FUObjectHashTables data took   8.70ms
+[2022.04.29-11.33.46:861][432]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2022.04.29-11.33.48:597][450]LogUObjectHash: Compacting FUObjectHashTables data took   7.30ms
+[2022.04.29-11.33.49:028][450]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/VehicleAdvExampleMap963BDA18473B354B4F6036BAA9C7E4F0.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2022.04.29-11.33.49:071][450]AssetCheck: New page: Asset Save: VehicleAdvExampleMap
+[2022.04.29-11.33.49:071][450]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
