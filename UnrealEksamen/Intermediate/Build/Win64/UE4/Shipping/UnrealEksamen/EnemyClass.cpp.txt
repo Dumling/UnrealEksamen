@@ -1,0 +1,2 @@
+C:\Users\Fredrik\source\repos\Space Shooter\UnrealEksamen\UnrealEksamen\Intermediate\Build\Win64\UE4\Shipping\UnrealEksamen\Definitions.UnrealEksamen.h
+C:\Users\Fredrik\source\repos\Space Shooter\UnrealEksamen\UnrealEksamen\Source\UnrealEksamen\EnemyClass.h
