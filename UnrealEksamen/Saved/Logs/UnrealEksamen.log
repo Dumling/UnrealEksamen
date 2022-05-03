@@ -1364,3 +1364,476 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.03-09.10.48:347][434]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.05.03-09.10.48:367][434]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
 [2022.05.03-09.10.48:402][435]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.05.03-09.11.35:579][749]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.03-09.11.35:601][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.03-09.11.35:602][749]PIE: New page: PIE session: VehicleAdvExampleMap (3. maj 2022 13.11.35)
+[2022.05.03-09.11.35:602][749]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.05.03-09.11.35:672][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070053s)
+[2022.05.03-09.11.35:673][749]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2022.05.03-09.11.35:674][749]LogPlayLevel: PIE: World Init took: (0.001780s)
+[2022.05.03-09.11.35:674][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.072080s)
+[2022.05.03-09.11.35:715][749]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.05.03-09.11.35:717][749]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.05.03-09.11.35:717][749]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.03-09.11.35:717][749]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.03-09.11.35:717][749]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.03-09.11.35:717][749]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.03-09.11.35:717][749]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.03-09.11.35:717][749]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.03-09.11.35:717][749]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.03-09.11.35:717][749]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.03-09.11.35:718][749]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.03-09.11.35:718][749]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.03-09.11.35:718][749]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.03-09.11.35:718][749]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.03-09.11.35:723][749]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.03-09.11.35:723][749]LogAudioMixer: Display: 1: FrontRight
+[2022.05.03-09.11.35:840][749]LogAudioMixer: Display: Using Audio Device Højttalere (Realtek(R) Audio)
+[2022.05.03-09.11.35:841][749]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.03-09.11.35:841][749]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.03-09.11.35:841][749]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.03-09.11.35:841][749]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.03-09.11.35:841][749]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.03-09.11.35:841][749]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.03-09.11.35:842][749]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.03-09.11.35:842][749]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.03-09.11.35:842][749]LogInit: FAudioDevice initialized.
+[2022.05.03-09.11.35:842][749]LogAudio: Display: Audio Device (ID: 10) registered with world 'VehicleAdvExampleMap'.
+[2022.05.03-09.11.35:871][749]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2022.05.03-09.11.35:887][749]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2022.05.03-11.11.35
+[2022.05.03-09.11.35:888][749]LogWorld: Bringing up level for play took: 0.013185
+[2022.05.03-09.11.35:889][749]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.05.03-09.11.35:901][749]PIE: Server logged in
+[2022.05.03-09.11.35:902][749]PIE: Play in editor total start time 0,314 seconds.
+[2022.05.03-09.11.37:690][777]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-15460.959 Y=11192.361 Z=70.000] for [HealthUp_C]
+[2022.05.03-09.11.39:978][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.03-09.11.39:978][813]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.05.03-09.11.39:979][813]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.03-09.11.39:993][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.03-09.11.40:098][813]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.03-09.11.40:106][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.03-09.11.40:147][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.03-09.11.40:148][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.03-09.11.40:150][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.03-09.11.40:162][813]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2022.05.03-09.11.40:188][814]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.05.03-09.11.42:244][845]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.03-09.11.42:286][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.03-09.11.42:286][845]PIE: New page: PIE session: VehicleAdvExampleMap (3. maj 2022 13.11.42)
+[2022.05.03-09.11.42:287][845]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.05.03-09.11.42:386][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.100241s)
+[2022.05.03-09.11.42:388][845]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2022.05.03-09.11.42:390][845]LogPlayLevel: PIE: World Init took: (0.002901s)
+[2022.05.03-09.11.42:390][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.103591s)
+[2022.05.03-09.11.42:450][845]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2022.05.03-09.11.42:451][845]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.05.03-09.11.42:451][845]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.03-09.11.42:451][845]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.03-09.11.42:451][845]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.03-09.11.42:451][845]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.03-09.11.42:451][845]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.03-09.11.42:451][845]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.03-09.11.42:451][845]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.03-09.11.42:451][845]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.03-09.11.42:452][845]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.03-09.11.42:452][845]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.03-09.11.42:452][845]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.03-09.11.42:452][845]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.03-09.11.42:462][845]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.03-09.11.42:462][845]LogAudioMixer: Display: 1: FrontRight
+[2022.05.03-09.11.42:623][845]LogAudioMixer: Display: Using Audio Device Højttalere (Realtek(R) Audio)
+[2022.05.03-09.11.42:624][845]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.03-09.11.42:624][845]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.03-09.11.42:624][845]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.03-09.11.42:625][845]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.03-09.11.42:625][845]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.03-09.11.42:625][845]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.03-09.11.42:627][845]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.03-09.11.42:627][845]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.03-09.11.42:627][845]LogInit: FAudioDevice initialized.
+[2022.05.03-09.11.42:627][845]LogAudio: Display: Audio Device (ID: 11) registered with world 'VehicleAdvExampleMap'.
+[2022.05.03-09.11.42:682][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.03-09.11.42:682][845]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2022.05.03-09.11.42:710][845]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2022.05.03-11.11.42
+[2022.05.03-09.11.42:712][845]LogWorld: Bringing up level for play took: 0.022689
+[2022.05.03-09.11.42:712][845]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.05.03-09.11.42:733][845]PIE: Server logged in
+[2022.05.03-09.11.42:734][845]PIE: Play in editor total start time 0,471 seconds.
+[2022.05.03-09.11.44:556][871]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1234.924 Y=13540.321 Z=70.000] for [FullHealth_C]
+[2022.05.03-09.11.46:568][900]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3083.980 Y=11731.031 Z=70.000] for [HealthUp_C]
+[2022.05.03-09.11.50:581][912]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3125.070 Y=12454.747 Z=70.000] for [FullHealth_C]
+[2022.05.03-09.11.52:586][918]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-13786.536 Y=6773.360 Z=70.000] for [FullHealth_C]
+[2022.05.03-09.11.58:630][936]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6455.575 Y=7011.277 Z=70.000] for [RamPickUp_C]
+[2022.05.03-09.12.10:657][972]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3674.137 Y=13181.496 Z=70.000] for [HealthUp_C]
+[2022.05.03-09.12.11:611][987]LogSlate: Window 'UnrealEksamen Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.03-09.12.11:760][987]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.05.03-09.12.11:760][987]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.03-09.12.11:763][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.03-09.12.11:775][987]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.03-09.12.11:782][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.03-09.12.11:824][987]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.03-09.12.11:825][987]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.03-09.12.11:837][987]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2022.05.03-09.12.11:864][988]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.05.03-09.13.04:410][ 82]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.03-09.13.04:425][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.03-09.13.04:425][ 82]PIE: New page: PIE session: VehicleAdvExampleMap (3. maj 2022 13.13.04)
+[2022.05.03-09.13.04:425][ 82]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.05.03-09.13.04:478][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052734s)
+[2022.05.03-09.13.04:479][ 82]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2022.05.03-09.13.04:479][ 82]LogPlayLevel: PIE: World Init took: (0.001322s)
+[2022.05.03-09.13.04:479][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.054244s)
+[2022.05.03-09.13.04:516][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.05.03-09.13.04:518][ 82]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.05.03-09.13.04:519][ 82]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.03-09.13.04:519][ 82]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.03-09.13.04:519][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.03-09.13.04:519][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.03-09.13.04:519][ 82]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.03-09.13.04:519][ 82]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.03-09.13.04:519][ 82]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.03-09.13.04:519][ 82]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.03-09.13.04:519][ 82]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.03-09.13.04:519][ 82]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.03-09.13.04:519][ 82]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.03-09.13.04:519][ 82]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.03-09.13.04:525][ 82]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.03-09.13.04:525][ 82]LogAudioMixer: Display: 1: FrontRight
+[2022.05.03-09.13.04:637][ 82]LogAudioMixer: Display: Using Audio Device Højttalere (Realtek(R) Audio)
+[2022.05.03-09.13.04:637][ 82]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.03-09.13.04:637][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.03-09.13.04:637][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.03-09.13.04:638][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.03-09.13.04:638][ 82]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.03-09.13.04:638][ 82]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.03-09.13.04:640][ 82]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.03-09.13.04:640][ 82]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.03-09.13.04:640][ 82]LogInit: FAudioDevice initialized.
+[2022.05.03-09.13.04:640][ 82]LogAudio: Display: Audio Device (ID: 12) registered with world 'VehicleAdvExampleMap'.
+[2022.05.03-09.13.04:696][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.03-09.13.04:696][ 82]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2022.05.03-09.13.04:715][ 82]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2022.05.03-11.13.04
+[2022.05.03-09.13.04:716][ 82]LogWorld: Bringing up level for play took: 0.014978
+[2022.05.03-09.13.04:716][ 82]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.05.03-09.13.04:728][ 82]PIE: Server logged in
+[2022.05.03-09.13.04:729][ 82]PIE: Play in editor total start time 0,313 seconds.
+[2022.05.03-09.13.06:910][104]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1720.542 Y=3321.625 Z=70.000] for [HealthUp_C]
+[2022.05.03-09.13.08:914][110]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1921.371 Y=11907.843 Z=70.000] for [HealthUp_C]
+[2022.05.03-09.13.14:626][127]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5139.482 Y=3148.714 Z=70.000] for [FullHealth_C]
+[2022.05.03-09.13.18:641][139]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1582.377 Y=8157.088 Z=70.000] for [FullHealth_C]
+[2022.05.03-09.13.20:639][145]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6694.261 Y=779.519 Z=70.000] for [FullHealth_C]
+[2022.05.03-09.13.24:660][157]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3401.824 Y=5284.326 Z=70.000] for [HealthUp_C]
+[2022.05.03-09.13.32:676][181]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-14628.884 Y=6021.042 Z=70.000] for [FullHealth_C]
+[2022.05.03-09.13.42:066][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.03-09.13.42:066][253]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.05.03-09.13.42:067][253]LogSlate: Window 'UnrealEksamen Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.03-09.13.42:074][253]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.03-09.13.42:077][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.03-09.13.42:100][253]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.03-09.13.42:110][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.03-09.13.42:152][253]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.03-09.13.42:153][253]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.03-09.13.42:164][253]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2022.05.03-09.13.42:179][254]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.05.03-09.13.42:872][267]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.03-09.13.42:889][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.03-09.13.42:889][267]PIE: New page: PIE session: VehicleAdvExampleMap (3. maj 2022 13.13.42)
+[2022.05.03-09.13.42:889][267]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.05.03-09.13.42:940][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047548s)
+[2022.05.03-09.13.42:941][267]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2022.05.03-09.13.42:942][267]LogPlayLevel: PIE: World Init took: (0.001398s)
+[2022.05.03-09.13.42:942][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.052360s)
+[2022.05.03-09.13.42:980][267]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2022.05.03-09.13.42:981][267]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.05.03-09.13.42:981][267]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.03-09.13.42:981][267]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.03-09.13.42:981][267]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.03-09.13.42:981][267]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.03-09.13.42:981][267]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.03-09.13.42:981][267]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.03-09.13.42:981][267]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.03-09.13.42:981][267]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.03-09.13.42:982][267]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.03-09.13.42:982][267]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.03-09.13.42:982][267]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.03-09.13.42:982][267]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.03-09.13.42:987][267]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.03-09.13.42:987][267]LogAudioMixer: Display: 1: FrontRight
+[2022.05.03-09.13.43:112][267]LogAudioMixer: Display: Using Audio Device Højttalere (Realtek(R) Audio)
+[2022.05.03-09.13.43:113][267]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.03-09.13.43:113][267]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.03-09.13.43:113][267]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.03-09.13.43:113][267]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.03-09.13.43:114][267]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.03-09.13.43:114][267]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.03-09.13.43:115][267]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.03-09.13.43:115][267]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.03-09.13.43:115][267]LogInit: FAudioDevice initialized.
+[2022.05.03-09.13.43:115][267]LogAudio: Display: Audio Device (ID: 13) registered with world 'VehicleAdvExampleMap'.
+[2022.05.03-09.13.43:175][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.03-09.13.43:175][267]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2022.05.03-09.13.43:198][267]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2022.05.03-11.13.43
+[2022.05.03-09.13.43:199][267]LogWorld: Bringing up level for play took: 0.018863
+[2022.05.03-09.13.43:199][267]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.05.03-09.13.43:218][267]PIE: Server logged in
+[2022.05.03-09.13.43:220][267]PIE: Play in editor total start time 0,339 seconds.
+[2022.05.03-09.13.45:040][294]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-12166.498 Y=2292.822 Z=70.000] for [FullHealth_C]
+[2022.05.03-09.13.51:171][391]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2022.05.03-09.13.51:525][396]LogBlueprintUserMessages: [None] 140.022491
+[2022.05.03-09.13.52:937][417]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4025.819 Y=5132.648 Z=70.000] for [HealthUp_C]
+[2022.05.03-09.14.00:915][550]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10050.961 Y=3525.306 Z=70.000] for [HealthUp_C]
+[2022.05.03-09.14.02:939][589]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3527.512 Y=8862.170 Z=70.000] for [HealthUp_C]
+[2022.05.03-09.14.12:985][775]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=410.705 Y=9563.784 Z=70.000] for [HealthUp_C]
+[2022.05.03-09.14.16:924][831]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-14829.500 Y=5331.562 Z=70.000] for [FullHealth_C]
+[2022.05.03-09.14.20:965][898]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2699.455 Y=4600.046 Z=70.000] for [HealthUp_C]
+[2022.05.03-09.14.38:078][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.03-09.14.38:079][150]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.05.03-09.14.38:079][150]LogSlate: Window 'UnrealEksamen Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.03-09.14.38:237][150]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.03-09.14.38:247][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.03-09.14.38:261][150]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.03-09.14.38:277][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.03-09.14.38:355][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.03-09.14.38:357][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.03-09.14.38:379][150]LogUObjectHash: Compacting FUObjectHashTables data took   8.10ms
+[2022.05.03-09.14.38:402][151]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.05.03-09.14.54:740][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.03-09.14.54:740][503]PIE: New page: SIE session: VehicleAdvExampleMap (3. maj 2022 13.14.54)
+[2022.05.03-09.14.54:741][503]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.05.03-09.14.54:789][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048175s)
+[2022.05.03-09.14.54:790][503]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2022.05.03-09.14.54:790][503]LogPlayLevel: PIE: World Init took: (0.001490s)
+[2022.05.03-09.14.54:791][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.049881s)
+[2022.05.03-09.14.54:825][503]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2022.05.03-09.14.54:825][503]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.05.03-09.14.54:825][503]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.03-09.14.54:825][503]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.03-09.14.54:826][503]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.03-09.14.54:826][503]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.03-09.14.54:826][503]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.03-09.14.54:826][503]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.03-09.14.54:826][503]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.03-09.14.54:826][503]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.03-09.14.54:826][503]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.03-09.14.54:826][503]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.03-09.14.54:826][503]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.03-09.14.54:826][503]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.03-09.14.54:831][503]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.03-09.14.54:831][503]LogAudioMixer: Display: 1: FrontRight
+[2022.05.03-09.14.54:948][503]LogAudioMixer: Display: Using Audio Device Højttalere (Realtek(R) Audio)
+[2022.05.03-09.14.54:949][503]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.03-09.14.54:949][503]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.03-09.14.54:949][503]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.03-09.14.54:949][503]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.03-09.14.54:949][503]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.03-09.14.54:949][503]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.03-09.14.54:951][503]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.03-09.14.54:951][503]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.03-09.14.54:951][503]LogInit: FAudioDevice initialized.
+[2022.05.03-09.14.54:951][503]LogAudio: Display: Audio Device (ID: 14) registered with world 'VehicleAdvExampleMap'.
+[2022.05.03-09.14.54:964][503]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2022.05.03-09.14.54:980][503]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2022.05.03-11.14.54
+[2022.05.03-09.14.54:981][503]LogWorld: Bringing up level for play took: 0.012973
+[2022.05.03-09.14.54:981][503]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.05.03-09.14.54:989][503]PIE: Server logged in
+[2022.05.03-09.14.54:990][503]PIE: Play in editor total start time 0,258 seconds.
+[2022.05.03-09.15.02:920][632]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-144.012 Y=11179.794 Z=70.000] for [FullHealth_C]
+[2022.05.03-09.15.04:816][663]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-13368.988 Y=9402.140 Z=70.000] for [HealthUp_C]
+[2022.05.03-09.15.11:036][755]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3535.759 Y=565.438 Z=70.000] for [FullHealth_C]
+[2022.05.03-09.15.13:055][788]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2703.685 Y=5109.247 Z=70.000] for [FullHealth_C]
+[2022.05.03-09.15.15:006][820]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2845.688 Y=5361.464 Z=70.000] for [HealthUp_C]
+[2022.05.03-09.15.19:042][882]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4008.900 Y=2918.598 Z=70.000] for [FullHealth_C]
+[2022.05.03-09.15.21:047][910]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-13426.998 Y=11767.000 Z=70.000] for [HealthUp_C]
+[2022.05.03-09.15.23:012][940]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-442.519 Y=9357.936 Z=70.000] for [HealthUp_C]
+[2022.05.03-09.15.29:047][ 38]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1877.865 Y=10189.126 Z=70.000] for [FullHealth_C]
+[2022.05.03-09.15.30:637][ 56]LogEditorViewport: Clicking on Actor (LMB): CarSelect_C (CarSelect)
+[2022.05.03-09.15.41:941][166]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5957.056 Y=884.826 Z=70.000] for [FullHealth_C]
+[2022.05.03-09.15.44:034][187]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9215.864 Y=5584.646 Z=70.000] for [HealthUp_C]
+[2022.05.03-09.15.45:532][204]Cmd: SELECT NONE
+[2022.05.03-09.15.48:347][238]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-12460.775 Y=14248.437 Z=70.000] for [FullHealth_C]
+[2022.05.03-09.15.54:860][306]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-12975.610 Y=11715.863 Z=70.000] for [FullHealth_C]
+[2022.05.03-09.15.56:972][324]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10438.296 Y=11520.417 Z=70.000] for [FullHealth_C]
+[2022.05.03-09.16.01:537][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.03-09.16.01:537][364]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.05.03-09.16.01:539][364]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.03-09.16.01:544][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.03-09.16.01:605][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.03-09.16.01:621][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.03-09.16.01:692][364]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.03-09.16.01:692][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.03-09.16.01:694][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.03-09.16.01:700][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.03-09.16.01:718][364]LogUObjectHash: Compacting FUObjectHashTables data took   7.25ms
+[2022.05.03-09.16.01:761][365]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.05.03-09.16.06:765][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.03-09.16.06:765][554]PIE: New page: PIE session: VehicleAdvExampleMap (3. maj 2022 13.16.06)
+[2022.05.03-09.16.06:765][554]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.05.03-09.16.06:815][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049810s)
+[2022.05.03-09.16.06:816][554]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2022.05.03-09.16.06:816][554]LogPlayLevel: PIE: World Init took: (0.001474s)
+[2022.05.03-09.16.06:816][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.051488s)
+[2022.05.03-09.16.06:851][554]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.05.03-09.16.06:854][554]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.05.03-09.16.06:854][554]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.03-09.16.06:854][554]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.03-09.16.06:854][554]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.03-09.16.06:854][554]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.03-09.16.06:854][554]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.03-09.16.06:854][554]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.03-09.16.06:854][554]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.03-09.16.06:854][554]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.03-09.16.06:855][554]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.03-09.16.06:855][554]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.03-09.16.06:855][554]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.03-09.16.06:855][554]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.03-09.16.06:860][554]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.03-09.16.06:860][554]LogAudioMixer: Display: 1: FrontRight
+[2022.05.03-09.16.06:974][554]LogAudioMixer: Display: Using Audio Device Højttalere (Realtek(R) Audio)
+[2022.05.03-09.16.06:974][554]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.03-09.16.06:974][554]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.03-09.16.06:974][554]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.03-09.16.06:975][554]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.03-09.16.06:975][554]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.03-09.16.06:975][554]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.03-09.16.06:977][554]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.03-09.16.06:977][554]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.03-09.16.06:977][554]LogInit: FAudioDevice initialized.
+[2022.05.03-09.16.06:977][554]LogAudio: Display: Audio Device (ID: 15) registered with world 'VehicleAdvExampleMap'.
+[2022.05.03-09.16.06:984][554]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2022.05.03-09.16.06:999][554]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2022.05.03-11.16.06
+[2022.05.03-09.16.07:000][554]LogWorld: Bringing up level for play took: 0.012348
+[2022.05.03-09.16.07:001][554]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.05.03-09.16.07:012][554]PIE: Server logged in
+[2022.05.03-09.16.07:013][554]PIE: Play in editor total start time 0,257 seconds.
+[2022.05.03-09.16.08:760][581]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1753.777 Y=4877.398 Z=70.000] for [HealthUp_C]
+[2022.05.03-09.16.10:819][613]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1998.113 Y=3312.525 Z=70.000] for [FullHealth_C]
+[2022.05.03-09.16.15:770][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.03-09.16.15:770][682]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.05.03-09.16.15:772][682]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.03-09.16.15:785][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.03-09.16.15:909][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.03-09.16.15:921][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.03-09.16.15:983][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.03-09.16.15:983][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.03-09.16.15:985][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.03-09.16.16:005][682]LogUObjectHash: Compacting FUObjectHashTables data took   7.39ms
+[2022.05.03-09.16.16:048][683]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.05.03-09.17.06:786][773]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.03-09.17.06:816][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.03-09.17.06:816][773]PIE: New page: PIE session: VehicleAdvExampleMap (3. maj 2022 13.17.06)
+[2022.05.03-09.17.06:816][773]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.05.03-09.17.06:909][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092335s)
+[2022.05.03-09.17.06:911][773]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2022.05.03-09.17.06:912][773]LogPlayLevel: PIE: World Init took: (0.002835s)
+[2022.05.03-09.17.06:912][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.095486s)
+[2022.05.03-09.17.06:969][773]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2022.05.03-09.17.06:971][773]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.05.03-09.17.06:971][773]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.03-09.17.06:971][773]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.03-09.17.06:972][773]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.03-09.17.06:972][773]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.03-09.17.06:972][773]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.03-09.17.06:972][773]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.03-09.17.06:972][773]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.03-09.17.06:972][773]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.03-09.17.06:972][773]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.03-09.17.06:972][773]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.03-09.17.06:972][773]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.03-09.17.06:973][773]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.03-09.17.06:980][773]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.03-09.17.06:980][773]LogAudioMixer: Display: 1: FrontRight
+[2022.05.03-09.17.07:132][773]LogAudioMixer: Display: Using Audio Device Højttalere (Realtek(R) Audio)
+[2022.05.03-09.17.07:132][773]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.03-09.17.07:132][773]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.03-09.17.07:132][773]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.03-09.17.07:133][773]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.03-09.17.07:133][773]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.03-09.17.07:133][773]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.03-09.17.07:135][773]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.03-09.17.07:135][773]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.03-09.17.07:135][773]LogInit: FAudioDevice initialized.
+[2022.05.03-09.17.07:135][773]LogAudio: Display: Audio Device (ID: 16) registered with world 'VehicleAdvExampleMap'.
+[2022.05.03-09.17.07:146][773]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2022.05.03-09.17.07:168][773]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2022.05.03-11.17.07
+[2022.05.03-09.17.07:169][773]LogWorld: Bringing up level for play took: 0.018130
+[2022.05.03-09.17.07:169][773]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.05.03-09.17.07:185][773]PIE: Server logged in
+[2022.05.03-09.17.07:186][773]PIE: Play in editor total start time 0,388 seconds.
+[2022.05.03-09.17.09:057][802]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2126.822 Y=1816.123 Z=70.000] for [HealthUp_C]
+[2022.05.03-09.17.10:188][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.03-09.17.10:188][820]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.05.03-09.17.10:189][820]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.03-09.17.10:196][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.03-09.17.10:235][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.03-09.17.10:262][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.03-09.17.10:321][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.03-09.17.10:324][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.03-09.17.10:326][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.03-09.17.10:346][820]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2022.05.03-09.17.10:400][821]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.05.03-09.17.38:592][365]BlueprintLog: New page: Compile CarSelect
+[2022.05.03-09.17.38:742][365]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2022.05.03-09.17.39:583][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CarSelection/CarSelect" FILE="../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/CarSelection/CarSelect.uasset" SILENT=true
+[2022.05.03-09.17.39:694][399]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/CarSelect75E78FED42F0B41AD05F7B82CF4432E4.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/CarSelection/CarSelect.uasset'
+[2022.05.03-09.17.39:713][399]AssetCheck: New page: Asset Save: CarSelect
+[2022.05.03-09.17.39:713][399]LogContentValidation: Display: Validating Blueprint /Game/CarSelection/CarSelect.CarSelect
+[2022.05.03-09.17.41:042][427]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.03-09.17.41:060][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.03-09.17.41:061][427]PIE: New page: PIE session: VehicleAdvExampleMap (3. maj 2022 13.17.41)
+[2022.05.03-09.17.41:061][427]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.05.03-09.17.41:111][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051022s)
+[2022.05.03-09.17.41:112][427]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2022.05.03-09.17.41:113][427]LogPlayLevel: PIE: World Init took: (0.001638s)
+[2022.05.03-09.17.41:113][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.052873s)
+[2022.05.03-09.17.41:156][427]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2022.05.03-09.17.41:160][427]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.05.03-09.17.41:160][427]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.03-09.17.41:160][427]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.03-09.17.41:160][427]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.03-09.17.41:160][427]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.03-09.17.41:160][427]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.03-09.17.41:160][427]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.03-09.17.41:160][427]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.03-09.17.41:160][427]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.03-09.17.41:161][427]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.03-09.17.41:161][427]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.03-09.17.41:161][427]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.03-09.17.41:161][427]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.03-09.17.41:167][427]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.03-09.17.41:167][427]LogAudioMixer: Display: 1: FrontRight
+[2022.05.03-09.17.41:271][427]LogAudioMixer: Display: Using Audio Device Højttalere (Realtek(R) Audio)
+[2022.05.03-09.17.41:272][427]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.03-09.17.41:272][427]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.03-09.17.41:272][427]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.03-09.17.41:272][427]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.03-09.17.41:272][427]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.03-09.17.41:272][427]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.03-09.17.41:274][427]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.03-09.17.41:274][427]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.03-09.17.41:274][427]LogInit: FAudioDevice initialized.
+[2022.05.03-09.17.41:274][427]LogAudio: Display: Audio Device (ID: 17) registered with world 'VehicleAdvExampleMap'.
+[2022.05.03-09.17.41:284][427]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2022.05.03-09.17.41:303][427]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2022.05.03-11.17.41
+[2022.05.03-09.17.41:304][427]LogWorld: Bringing up level for play took: 0.015666
+[2022.05.03-09.17.41:304][427]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.05.03-09.17.41:312][427]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10050.000 Y=15970.000 Z=160.000] for [CarSelect_C]
+[2022.05.03-09.17.41:313][427]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type CarSelect_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -10050.000000 15970.000000 160.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.05.03-09.17.41:318][427]PIE: Server logged in
+[2022.05.03-09.17.41:319][427]PIE: Play in editor total start time 0,269 seconds.
+[2022.05.03-09.17.47:859][532]LogBlueprintUserMessages: [None] 500.0
+[2022.05.03-09.18.00:190][747]LogBlueprintUserMessages: [None] 416.018921
+[2022.05.03-09.18.06:568][863]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10839.528 Y=13121.692 Z=70.000] for [HealthUp_C]
+[2022.05.03-09.18.12:837][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.03-09.18.12:838][990]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2022.05.03-09.18.12:839][990]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.03-09.18.12:844][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.03-09.18.12:915][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.03-09.18.12:949][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.03-09.18.13:015][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.03-09.18.13:020][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.03-09.18.13:022][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.03-09.18.13:047][990]LogUObjectHash: Compacting FUObjectHashTables data took   7.75ms
+[2022.05.03-09.18.13:145][991]LogPlayLevel: Display: Destroying online subsystem :Context_22
