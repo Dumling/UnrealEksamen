@@ -3095,3 +3095,30 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.06-11.39.04:207][ 99]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/VehicleAdvExampleMap5D9B857B436927FF54DDC09033690B50.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
 [2022.05.06-11.39.04:294][ 99]AssetCheck: New page: Asset Save: VehicleAdvExampleMap
 [2022.05.06-11.39.04:294][ 99]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
+[2022.05.06-11.43.55:789][459]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2022.05.06-11.43.57:118][459]LogSlate: Window 'Save Content' being destroyed
+[2022.05.06-11.43.57:158][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Explosion" FILE="../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/Explosion.uasset" SILENT=true
+[2022.05.06-11.43.57:162][459]LogSavePackage: Moving '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Saved/Explosion7C1049404508727558186AB9538B6892.tmp' to '../../../../../../Users/Fredrik/source/repos/Space Shooter/UnrealEksamen/UnrealEksamen/Content/Explosion.uasset'
+[2022.05.06-11.43.57:219][459]AssetCheck: New page: Asset Save: Explosion
+[2022.05.06-11.43.57:219][459]LogContentValidation: Display: Validating SoundWave /Game/Explosion.Explosion
+[2022.05.06-11.43.58:209][479]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2022.05.06-11.43.58:329][479]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.06-11.43.58:329][479]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-11.43.58:329][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-11.43.58:929][479]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-11.43.58:930][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-11.44.00:074][479]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.06-11.44.00:074][479]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-11.44.00:107][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-11.44.00:982][479]LogSlate: Window 'UnrealEksamen - Unreal Editor' being destroyed
+[2022.05.06-11.44.01:923][480]Cmd: QUIT_EDITOR
+[2022.05.06-11.44.01:925][480]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.05.06-11.44.01:955][480]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.05.06-11.44.03:004][480]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.05.06-11.44.03:005][480]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.05.06-11.44.03:005][480]LogAudio: Display: Audio Device unregistered from world 'VehicleAdvExampleMap'.
+[2022.05.06-11.44.03:007][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.06-11.44.03:030][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.06-11.44.03:241][480]LogAudio: Display: Audio Device Manager Shutdown
+[2022.05.06-11.44.03:301][480]LogExit: Preparing to exit.
+[2022.05.06-11.44.04:420][480]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
