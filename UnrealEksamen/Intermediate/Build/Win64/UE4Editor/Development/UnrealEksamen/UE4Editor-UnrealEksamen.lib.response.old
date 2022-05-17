@@ -6,8 +6,8 @@
 /NAME:"UE4Editor-UnrealEksamen.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\ikk-n\OneDrive\Dokumenter\GitHub\UnrealEksamen\UnrealEksamen\Intermediate\Build\Win64\UnrealEksamenEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\ikk-n\OneDrive\Dokumenter\GitHub\UnrealEksamen\UnrealEksamen\Intermediate\Build\Win64\UE4Editor\Development\UnrealEksamen\EnemyClass.cpp.obj"
-"C:\Users\ikk-n\OneDrive\Dokumenter\GitHub\UnrealEksamen\UnrealEksamen\Intermediate\Build\Win64\UE4Editor\Development\UnrealEksamen\UnrealEksamen.cpp.obj"
-"C:\Users\ikk-n\OneDrive\Dokumenter\GitHub\UnrealEksamen\UnrealEksamen\Intermediate\Build\Win64\UE4Editor\Development\UnrealEksamen\Default.rc2.res"
-/OUT:"C:\Users\ikk-n\OneDrive\Dokumenter\GitHub\UnrealEksamen\UnrealEksamen\Intermediate\Build\Win64\UE4Editor\Development\UnrealEksamen\UE4Editor-UnrealEksamen.lib"
+"C:\Users\Fredrik\source\repos\Space Shooter\UnrealEksamen\UnrealEksamen\Intermediate\Build\Win64\UnrealEksamenEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Fredrik\source\repos\Space Shooter\UnrealEksamen\UnrealEksamen\Intermediate\Build\Win64\UE4Editor\Development\UnrealEksamen\EnemyClass.cpp.obj"
+"C:\Users\Fredrik\source\repos\Space Shooter\UnrealEksamen\UnrealEksamen\Intermediate\Build\Win64\UE4Editor\Development\UnrealEksamen\UnrealEksamen.cpp.obj"
+"C:\Users\Fredrik\source\repos\Space Shooter\UnrealEksamen\UnrealEksamen\Intermediate\Build\Win64\UE4Editor\Development\UnrealEksamen\Default.rc2.res"
+/OUT:"C:\Users\Fredrik\source\repos\Space Shooter\UnrealEksamen\UnrealEksamen\Intermediate\Build\Win64\UE4Editor\Development\UnrealEksamen\UE4Editor-UnrealEksamen.lib"
